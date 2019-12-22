@@ -1,0 +1,2 @@
+# Section IX-25. Reports and recommendations.
+The Commission shall make annual reports to the Governor of its proceedings, in which reports it shall recommend, from time to time, such new or additional legislation in reference to its powers or duties, or the creation, supervision, regulation or control of corporations, or to the subject of taxation, as it may deem wise or expedient, or as may be required by law.

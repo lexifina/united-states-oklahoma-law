@@ -1,0 +1,2 @@
+# Section VI-16. Devolution of powers and duties of Governor upon Lieutenant Governor.
+In case of impeachment of the Governor, or of his death, failure to qualify, resignation, removal from the State, or inability to discharge the powers and duties of the office, the said office, with its compensation, shall devolve upon the Lieutenant Governor for the residue of the term or until the disability shall be removed.

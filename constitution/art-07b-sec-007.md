@@ -1,0 +1,2 @@
+# Section VII-B-7. Effective date.
+This proposed amendment to the Constitution of the State of Oklahoma as set forth herein shall be effective upon adoption and shall become operative only and in the event the amendment of Article VII of the Constitution proposed by House Joint Resolution No. 508, of the First Session of the Thirty-first Oklahoma Legislature, repealing the previously existing Article VII of the Oklahoma Constitution and adopting in lieu thereof a new Article VII of the Constitution is approved by the people.

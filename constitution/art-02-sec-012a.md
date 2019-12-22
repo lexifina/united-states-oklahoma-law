@@ -1,0 +1,9 @@
+# Section II-12A. Term limits for Congressman.
+Beginning January 1, 1995, persons wanting to become a candidate for election to the United States Congress from this State for a term beginning on or after January 1, 1995, shall be subject to the following provisions:
+A. Any person seeking to have his or her name placed on the ballot for election to the United States House of Representatives shall be ineligible if, by the end of the then current term of office, that person has served in that office for three (3) two-year terms.
+B. Any person seeking to have his or her name placed on the ballot for election to the United States Senate shall be ineligible if, by the end of the then current term of office, that person has served in that office for two (2) six-year terms.
+C. A person elected to serve as a member of the United States Congress shall be eligible to serve as a Representative for a total of six (6) years and as a Senator for a total of twelve (12) years for a maximum total of eighteen (18) years as a member of Congress from this State.
+D. The provisions of this section shall not be applicable to or include:
+1. The years served by any person as a member of the United States House of Representatives or as a member of the United States Senate which began prior to the election at which this measure was enacted.
+2. The years served by a person who has been appointed to complete the remainder of a vacated term.
+E. The provisions of this Section shall not be construed so as to prevent casting a ballot for any person regardless of the number of years previously served in the United States Congress by writing the name of that person on the ballot, or from having such ballot counted or to prevent a person from campaigning by means of a "write- in" campaign if that procedure is otherwise authorized in this Constitution or by law.

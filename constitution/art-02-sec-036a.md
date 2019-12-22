@@ -1,0 +1,7 @@
+# Section II-36A. Prohibition of special treatment or discrimination based on race or sex in public employment, education and contracts.
+A. The state shall not grant preferential treatment to, or discriminate against, any individual or group on the basis of race, color, sex, ethnicity or national origin in the operation of public employment, public education or public contracting.
+B. This section shall apply only to action taken after the effective date of this section.
+C. Nothing in this section shall be interpreted as prohibiting bona fide qualifications based on sex that are reasonably necessary to the normal operation of public employment, public education or public contracting.
+D. Nothing in this section shall be interpreted as invalidating any court order or consent decree that is in force as of the effective date of this section.
+E. Nothing in this section shall be interpreted as prohibiting action that must be taken to establish or maintain eligibility for any federal program, where ineligibility would result in a loss of federal funds to the state.
+F. For the purposes of this section, "state" shall include, but not be limited to, the state itself or an agency, institution, instrumentality, or political subdivision of the state. G. The remedies available for violations of this section shall be the same, regardless of the injured party's race, color, sex, ethnicity or national origin, as are otherwise available for violations of the antidiscrimination laws of this state.

@@ -1,0 +1,2 @@
+# Section XII-A-2. Duration of exemption - Increase of homestead.
+Any act of the Legislature, which is authorized by this amendment and which provides that homesteads shall be exempted from ad valorem taxation, shall be in full force and effect for a period of not less than twenty years from the date of the taking effect of such act and for such time thereafter as the same shall remain without repeal or amendment by the Legislature, provided, that the homestead as defined in any such act of exemption may be increased at any time but not diminished.

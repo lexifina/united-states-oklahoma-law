@@ -1,0 +1,2 @@
+# Section XVII-2. County and township offices.
+There are hereby created, subject to change by the Legislature, in and for each organized county of this State, the offices of Judge of the County Court, County Attorney, Clerk of the District Court, County Clerk, Sheriff, County Treasurer, Register of Deeds, County Surveyor, Superintendent of Public Instruction, three County Commissioners, and such municipal township officers as are now provided for under the laws of the Territory of Oklahoma, except as in this Constitution otherwise provided.

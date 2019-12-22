@@ -1,0 +1,3 @@
+# Section XXVI-3. Director of Wildlife Conservation.
+A Director of Wildlife Conservation shall be appointed by a majority vote of the entire Commission, who shall be removed only for cause and after public hearing by the Commission. His duties and compensation for his services shall be fixed by a majority vote of the entire Commission.
+The Director shall, with the approval of the Commission, appoint such assistants and employees as the Commission may deem necessary. The Commission shall determine the qualifications of the Director, all assistants and employees. No Commissioner shall be eligible for employment as Director or otherwise.

@@ -1,0 +1,2 @@
+# Section XVIII-4(d). Submission to referendum vote.
+When such petition demands a referendum vote upon any ordinance or any other legal act other than the grant, extension, or renewal of a franchise, the chief executive officer shall submit said ordinance or act to the qualified electors of said corporation at the next succeeding general municipal election, and if, at said election, a majority of the electors voting thereon shall not vote for the same, it shall thereupon stand repealed.

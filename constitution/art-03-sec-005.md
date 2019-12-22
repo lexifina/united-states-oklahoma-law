@@ -1,0 +1,2 @@
+# Section III-5. Free and equal elections - Interference by civil or military power - Privilege from arrest.
+All elections shall be free and equal. No power, civil or military, shall ever interfere to prevent the free exercise of the right of suffrage, and electors shall, in all cases, except for treason, felony, and breach of the peace, be privileged from arrest during their attendance on elections and while going to and from the same.

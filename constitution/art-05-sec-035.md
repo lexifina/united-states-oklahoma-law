@@ -1,0 +1,2 @@
+# Section V-35. Signing bills and resolutions - Entry on journal.
+The presiding officer of each House shall, in the presence of the House over which he presides, sign all bills and joint resolutions passed by the Legislature, immediately after the same shall have been publicly read at length, and the fact of reading and signing shall be entered upon the journal, but the reading at length may be dispensed with by a two-thirds vote of a quorum present, which vote, by yeas and nays, shall also be entered upon the journal.

@@ -1,0 +1,2 @@
+# Section X-19. Specification of purpose of tax - Devotion to another purpose.
+Every act enacted by the Legislature, and every ordinance and resolution passed by any county, city, town, or municipal board or local legislative body, levying a tax shall specify distinctly the purpose for which said tax is levied, and no tax levied and collected for one purpose shall ever be devoted to another purpose.

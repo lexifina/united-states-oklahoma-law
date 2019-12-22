@@ -1,0 +1,2 @@
+# Section XIII-B-4. Salaries and expenses - Allocation of funds for payment.
+The Oklahoma State Regents for Higher Education are hereby authorized to allocate from the funds allocated for the support of its educational institutions named in this Act, funds sufficient for the payment of the per diem and expenses of the members of the Board of Regents of Oklahoma Colleges, the salaries and expenses of the clerical help of said Board; office expense, and other expenses necessary for the proper performance of the duties of said Board.

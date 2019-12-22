@@ -1,0 +1,2 @@
+# Section V-4. Referendum against part of act.
+The referendum may be demanded by the people against one or more items, sections, or parts of any act of the Legislature in the same manner in which such power may be exercised against a complete act. The filing of a referendum petition against one or more items, sections, or parts of an act shall not delay the remainder of such act from becoming operative.

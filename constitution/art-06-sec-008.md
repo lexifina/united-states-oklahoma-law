@@ -1,0 +1,2 @@
+# Section VI-8. Execution of laws - Intercourse with other states and United States - Conservator of peace.
+The Governor shall cause the laws of the State to be faithfully executed, and shall conduct in person or in such manner as may be prescribed by law, all intercourse and business of the State with other states and with the United States, and he shall be a conservator of the peace throughout the State.

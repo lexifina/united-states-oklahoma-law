@@ -1,0 +1,3 @@
+# Section VI-31. Creation and membership - Status, authority and duties.
+A Board of Agriculture is hereby created to be composed of five members all of whom shall be farmers and shall be selected in the manner prescribed by law.
+Said Board shall be maintained as a part of the State government, and shall have jurisdiction over all matters affecting animal industry and animal quarantine regulation, and shall be the Board of Regents of all State Agricultural and Mechanical Colleges, and shall discharge such other duties and receive such compensation as now is, or may hereafter be, provided by law.

@@ -1,0 +1,3 @@
+# Section II-35. Marriage defined - Construction of law and Constitution - Recognition of out-of-state marriages - Penalty.
+A. Marriage in this state shall consist only of the union of one man and one woman. Neither this Constitution nor any other provision of law shall be construed to require that marital status or the legal incidents thereof be conferred upon unmarried couples or groups. B. A marriage between persons of the same gender performed in another state shall not be recognized as valid and binding in this state as of the date of the marriage.
+C. Any person knowingly issuing a marriage license in violation of this section shall be guilty of a misdemeanor.

@@ -1,0 +1,2 @@
+# Section V-60. System of checks and balances.
+The Legislature shall provide by law for the establishment and maintenace of an efficient system of checks and balances between the officers of the Executive Department, and all commissioners and superintendents, and boards of control of State institutions, and all other officers entrusted with the collection, receipt, custody, or disbursement of the revenue or moneys of the State whatsoever.

@@ -1,0 +1,2 @@
+# Section XII-A-1. Exemption from ad valorem taxation authorized.
+All homesteads as is or may be defined under the Laws of the State of Oklahoma for tax exemption purposes, may hereafter be exempted from all forms of ad valorem taxation by the Legislature; provided, that all assessments, levies, encumbrances and other contract obligations incurred or made prior to the taking effect of such act of the Legislature shall in no way be affected or impaired by the exercise of Legislative power as authorized by this amendment.

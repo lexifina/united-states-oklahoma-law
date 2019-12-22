@@ -1,0 +1,2 @@
+# Section IX-27. Railroad crossings at grade.
+In case any railroad company shall hereafter seek to cross at grade with its track or tracks, the track or tracks of another railroad, the railroad seeking to cross at grade, within a reasonable time, shall be compelled to interlock or protect such crossings by safety devices, to be designated by the Commission, and all costs of appliance, together with the expenses of putting them in, shall be borne equally by each company: Provided, That this act shall not apply to crossings of sidetracks.

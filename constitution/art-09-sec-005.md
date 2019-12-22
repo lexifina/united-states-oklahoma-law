@@ -1,0 +1,2 @@
+# Section IX-5. Telegraph and telephone companies - Exchange of messages - Physical connections.
+All telephone and telegraph lines, operated for hire, shall each respectively, receive and transmit each other's messages without delay or discrimination, and make physical connections with each other's lines, under such rules and regulations as shall be prescribed by law, or by any commission created by this Constitution, or any act of the Legislature, for that purpose.

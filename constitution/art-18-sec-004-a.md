@@ -1,0 +1,2 @@
+# Section XVIII-4(a). Reservation of powers.
+The powers of the initiative and referendum, reserved by this Constitution to the people of the State and the respective counties and districts therein, are hereby reserved to the people of every municipal corporation now existing or which shall hereafter be created within this State, with reference to all legislative authority which it may exercise, and amendments to charters for its own government in accordance with the provisions of this Constitution.

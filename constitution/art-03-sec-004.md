@@ -1,0 +1,2 @@
+# Section III-4. Manner of holding and conducting elections - Registration of electors.
+The Legislature shall prescribe the time and manner of holding and conducting all elections, and enact such laws as may be necessary to detect and punish fraud in such elections. The Legislature may provide by law for the registration of electors throughout the state and, when it is so provided, no person shall vote at any election unless he shall have registered according to law.

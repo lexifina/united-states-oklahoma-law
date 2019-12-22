@@ -1,0 +1,2 @@
+# Section II-30. Unreasonable searches or seizures - Warrants, issuance of.
+The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches or seizures shall not be violated; and no warrant shall issue but upon probable cause supported by oath or affirmation, describing as particularly as may be the place to be searched and the person or thing to be seized.

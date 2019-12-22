@@ -1,0 +1,2 @@
+# Section IX-2. Rights as to construction of lines.
+Every railroad, oil pipe, car, express, telephone or telegraph corporation or association organized or authorized to do a transportation or transmission business under the laws of this State for such purpose, shall, each respectively, have the right to construct and operate its line between any points in this State, and as such to connect at the State line with like lines; and every such company shall have the right with its road or line, to intersect, connect with, or cross any railroad or such line.

@@ -1,0 +1,2 @@
+# Section IV-1. Departments of government - Separation and distinction.
+The powers of the government of the State of Oklahoma shall be divided into three separate departments: The Legislative, Executive, and Judicial; and except as provided in this Constitution, the Legislative, Executive, and Judicial departments of government shall be separate and distinct, and neither shall exercise the powers properly belonging to either of the others.

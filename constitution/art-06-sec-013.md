@@ -1,0 +1,2 @@
+# Section VI-13. Officers' commissions - Vacancies.
+The Governor shall commission all officers not otherwise commissioned by law. All commissions shall run in the name and by the authority of the "State of Oklahoma," be signed by the Governor, sealed with the Great Seal of the State of Oklahoma, and attested by the Secretary of State. When any office shall become vacant, he shall, unless otherwise provided by law, appoint a person to fill such vacancy, who shall continue in office until a successor shall have been duly elected or appointed, and qualified according to law.

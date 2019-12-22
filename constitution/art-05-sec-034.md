@@ -1,0 +1,2 @@
+# Section V-34. Reading and passage of bills - Yeas and nays entered on journal.
+Every bill shall be read on three different days in each House, and no bill shall become a law unless, on its final passage, it be read at length, and no law shall be passed unless upon a vote of a majority of all the members elected to each House in favor of such law; and the question, upon final passage, shall be taken upon its last reading, and the yeas and nays shall be entered upon the journal.

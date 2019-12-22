@@ -1,0 +1,2 @@
+# Section IX-35. Power of Legislature.
+After the second Monday in January, nineteen hundred and nine, the Legislature may, by law, from time to time, alter, amend, revise, or repeal sections from eighteen to thirty-four, inclusive, of this article, or any of them, or any amendments thereof: Provided, That no amendment made under authority of this section shall contravene the provisions of any part of this Constitution other than the said sections last above referred to or any such amendments thereof.

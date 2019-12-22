@@ -1,0 +1,2 @@
+# Section IX-3. Receipt of cars, tonnage and passengers from other lines.
+Every railroad, car, or express company, shall each respectively receive and transport without delay or discrimination each other's cars, loaded or empty, tonnage, and passengers, under such rules and regulations as may be prescribed by law or any commission created by this Constitution or by act of the Legislature, for that purpose.

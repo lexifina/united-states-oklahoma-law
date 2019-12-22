@@ -1,0 +1,5 @@
+# Section VII-A-6. Established rules to apply - Judge pro tem - Compensation.
+(a) In all proceedings before the Court the established rules for disqualification of judges for interest, prejudice or partiality shall apply. No district judge shall sit in a matter in which the respondent is a judge of a court within his district court judicial district. In the event of the disqualification or failure to act of a member of the Court, a judge pro tem to sit in his place shall be named by the authority appointing him, if he is a district judge, the qualified district judge from his Supreme Court judicial district, next in seniority, shall serve as judge pro tem.
+(b) Members of the Court shall serve without compensation, but shall receive the allowance for expense permitted district judges serving outside their districts.
+(c) The prosecutors shall receive such fair and just compensation as the respective division of the Court shall award for service before that division.
+(d) The Legislature shall appropriate such sums as may be necessary to carry out the provisions of this Article.

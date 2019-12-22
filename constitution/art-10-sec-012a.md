@@ -1,0 +1,2 @@
+# Section X-12a. Common school taxes on property of public service corporations.
+All taxes collected for the maintenance of the common schools of this State, and which are levied upon the property of any railroad company, pipe line company, telegraph company, or upon the property of any public service corporation which operates in more than one county in this State, shall be paid into the Common School Fund and distributed as are other Common School Funds of this State.

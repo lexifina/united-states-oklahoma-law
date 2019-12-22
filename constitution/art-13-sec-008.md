@@ -1,0 +1,4 @@
+# Section XIII-8. Board of Regents of University of Oklahoma.
+The government of the University of Oklahoma shall be vested in a Board of Regents consisting of seven members to be appointed by the Governor by and with the advice and consent of the Senate. The term of said members shall be for seven years, except and provided that the appointed members of the Board of Regents in office at the time of the adoption of this amendment as now provided by law shall continue in office during the term for which they were appointed, and thereafter as provided herein.
+Appointments for filling vacancies occurring on said Board shall be made by the Governor with advice and consent of the Senate and said appointments to fill vacancies shall be for the residue of the term only.
+Members of the Board of Regents of the University of Oklahoma shall be subject to removal from office only as provided by law for the removal of elective officers not liable to impeachment.

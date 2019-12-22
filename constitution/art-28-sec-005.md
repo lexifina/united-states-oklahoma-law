@@ -1,0 +1,5 @@
+# Section XXVIII-5. Prohibition of sales to certain persons - Limitation on advertising - Penalties.
+It shall be unlawful for any licensee to sell or furnish any alcoholic beverage to:
+A person under twenty-one (21) years of age; or A person who has been adjudged insane or mentally deficient; or A person who is intoxicated.
+Sales, gifts, or deliveries to persons under twenty-one (21) years of age shall be deemed a felony; and any license issued pursuant to any law, in compliance with this Amendment, shall be revoked, upon conviction for such sale, gift, or delivery. It shall be unlawful for any person, firm, or corporation to advertise the sale of alcoholic beverages within the State of Oklahoma, except by a sign at retail package stores bearing the words "Retail Alcoholic Liquor Store." Sales to insane, mentally deficient, or intoxicated persons shall be deemed a felony.
+Any person under the age of twenty-one (21) years who misrepresents his age, for the purpose of obtaining the purchase of any alcoholic beverage, shall be guilty of a misdemeanor.

@@ -1,0 +1,2 @@
+# Section II-5. Public money or property - Use for sectarian purposes.
+No public money or property shall ever be appropriated, applied, donated, or used, directly or indirectly, for the use, benefit, or support of any sect, church, denomination, or system of religion, or for the use, benefit, or support of any priest, preacher, minister, or other religious teacher or dignitary, or sectarian institution as such.

@@ -1,0 +1,2 @@
+# Section XXV-6. Department to administer human services and public welfare.
+For the purpose of effectively administering and carrying into execution all laws enacted pursuant to the authority granted in Section 1 of this Article, the Legislature is hereby authorized to create a department or departments charged with the duty and responsibility of faithfully administering and carrying into execution all laws enacted pursuant to the authority granted in Section 1 of this Article and shall perform such other duties as may, from time to time, be prescribed by law.

@@ -1,0 +1,2 @@
+# Section XVIII-4(b). Petition - Signatures - Filing.
+Every petition for either the initiative or referendum in the government of a municipal corporation shall be signed by a number of qualified electors residing within the territorial limits of such municipal corporation, equal to twenty-five per centum of the total number of votes cast at the next preceding election, and every such petition shall be filed with the chief executive officer of such municipal corporation.

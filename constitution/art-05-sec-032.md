@@ -1,0 +1,2 @@
+# Section V-32. Special and local laws - Notice of intended introduction.
+No special or local law shall be considered by the Legislature until notice of the intended introduction of such bill or bills shall first have been published for four consecutive weeks in some weekly newspaper published or of general circulation in the city or county affected by such law, stating in substance the contents thereof, and verified proof of such publication filed with the Secretary of State.

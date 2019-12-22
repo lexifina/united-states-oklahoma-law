@@ -1,0 +1,2 @@
+# Section IX-44. Foreign corporations subject to same restrictions and requirements as domestic corporations.
+No foreign corporation shall be authorized to carry on in this State any business which a domestic corporation is prohibited form doing, or be relieved from compliance with any of the requirements made of a similar domestic corporation by the Constitution or laws of the State. Nothing in this article, however, shall restrict or limit the power of the Legislature to impose conditions under which foreign corporations may be licensed to do business in this State.
