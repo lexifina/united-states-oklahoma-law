@@ -1,0 +1,2 @@
+# Section XIII-B-3. Successor to existing governing boards - Records, papers, etc.
+The Board of Regents of Oklahoma Colleges shall succeed the present governing board in the management and control of any of the institutions named in the preceding section, and such governing board shall not hereafter have the management or control of any of said institutions. All records, books, papers and information pertaining to the institutions herein designated shall be transferred to the Board of Regents of Oklahoma Colleges.

@@ -1,0 +1,2 @@
+# Section IX-1. Corporation - Company - Charter - License.
+As used in this article, the term "corporation" or "company" shall include all associations and joint stock companies having any power or privileges, not possessed by individuals, and exclude all municipal corporations and public institutions owned or controlled by the State; the term "charter" shall mean the charter of incorporation, by or under which any corporation is formed. The term "license" shall mean the authority under which all foreign corporations are permitted to transact business in this State.

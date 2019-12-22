@@ -1,0 +1,5 @@
+# Section VII-A-5. Appeal to Appellate Division.
+(a) From any judgment of the Trial Division, the respondent or the prosecutor may appeal to the Appellate Division, by filing a notice of appeal with the Clerk of the Supreme Court, within ten days after entry of the judgment. The notice shall be served upon the opposite party in the manner prescribed by the rules of the Appellate Division.
+(b) The preparation and certification of the record upon appeal and all proceedings upon the appeal, not prescribed by this action, shall be governed by the rules of the Appellate Division.
+(c) The review in the Appellate Division shall be an equity appeal, as to both law and fact. The Appellate Division may affirm, modify or reverse the judgment of the Trial Division, or enter a new judgment, as justice may require.
+(d) If justice requires, the Appellate Division may hear additional evidence upon the appeal, upon a showing to the satisfaction of the Division that the additional evidence is material and that there were good reasons for failure to present it to the Trial Division.

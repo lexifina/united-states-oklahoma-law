@@ -1,0 +1,2 @@
+# Section VI-9. Messages and communications to Legislature.
+At every session of the Legislature, and immediately upon its organization, the Governor shall communicate by message, delivered to a joint session of the two Houses, upon the condition of the State; and shall recommend such matters to the Legislature as he shall judge expedient. He shall also transmit a copy, to each house, of the full report of each State officer and State commission. He shall communicate, from time to time, such matters as he may elect or the Legislature may require.

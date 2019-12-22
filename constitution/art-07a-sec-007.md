@@ -1,0 +1,2 @@
+# Section VII-A-7. Exclusive jurisdiction.
+No other court shall have jurisdiction to restrict or control or review the orders of the Appellate Division of the Court on the Judiciary and no court except the Appellate Division shall have jurisdiction to restrict, control or review the orders of the Trial Division. District and Superior Courts shall, on direction of the Division of the Court on the Judiciary, aid in carrying out its procedure and mandates.

@@ -1,0 +1,2 @@
+# Section X-28. Revenue for sinking fund - Uses to which applied.
+Counties, townships, school districts, cities, and towns shall levy sufficient additional revenue to create a sinking fund to be used, first, for the payment of interest coupons as they fall due; second, for the payment of bonds as they fall due; third, for the payments of such parts of judgments as such municipality may, by law, be required to pay.

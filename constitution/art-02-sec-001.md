@@ -1,0 +1,2 @@
+# Section II-1. Political power - Purpose of government - Alteration or reformation.
+All political power is inherent in the people; and government is instituted for their protection, security, and benefit, and to promote their general welfare; and they have the right to alter or reform the same whenever the public good may require it: Provided, such change be not repugnant to the Constitution of the United States.

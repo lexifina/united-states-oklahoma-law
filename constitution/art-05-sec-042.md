@@ -1,0 +1,2 @@
+# Section V-42. Contempt, disobedience of process and disorderly conduct.
+In any legislative investigation, either House of the Legislature, or any committee thereof, duly authorized by the House creating the same, shall have power to punish as for contempt, disobedience of process, or contumacious or disorderly conduct, and this provision shall also apply to joint sessions of the Legislature, and also to joint committees thereof, when authorized by joint resolution of both Houses.

@@ -1,0 +1,3 @@
+# Section XV-1. Officers required to take oath or affirmation - Form.
+All public officers, before entering upon the duties of their offices, shall take and subscribe to the following oath or affirmation:
+"I, _________, do solemnly swear (or affirm) that I will support, obey, and defend the Constitution of the United States, and the Constitution of the State of Oklahoma, and that I will not, knowingly, receive, directly or indirectly, any money or other valuable thing, for the performance or nonperformance of any act or duty pertaining to my office, other than the compensation allowed by law; I further swear (or affirm) that I will faithfully discharge my duties as _________ to the best of my ability." The Legislature may prescribe further oaths or affirmations.

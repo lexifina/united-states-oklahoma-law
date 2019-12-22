@@ -1,0 +1,2 @@
+# Section XXIII-12. State-administered retirement systems - Limitation on use of monies.
+All the proceeds, assets and income of any public retirement system administered by an agency of the State of Oklahoma shall be held, invested, or disbursed as provided for by law as in trust for the exclusive purpose of providing for benefits, refunds, investment management, and administrative expenses of the individual public retirement system, and shall not be encumbered for or diverted to any other purposes.

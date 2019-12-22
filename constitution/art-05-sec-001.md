@@ -1,0 +1,2 @@
+# Section V-1. Legislature - Authority and composition - Powers reserved to people.
+The Legislative authority of the State shall be vested in a Legislature, consisting of a Senate and a House of Representatives; but the people reserve to themselves the power to propose laws and amendments to the Constitution and to enact or reject the same at the polls independent of the Legislature, and also reserve power at their own option to approve or reject at the polls any act of the Legislature.

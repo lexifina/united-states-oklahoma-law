@@ -1,0 +1,2 @@
+# Section XIV-2. Classification of loans and lenders - Licenses - Maximum rates of interest.
+The Legislature shall have authority to classify loans and lenders, license and regulate lenders, define interest and fix maximum rates of interest; provided, however, in the absence of legislation fixing maximum rates of interest, all contracts for a greater rate of interest than ten percent(10%) per annum shall be deemed usurious; provided, further, that in contracts where no rate of interest is agreed upon, the rate shall not exceed six percent (6%) per annum.

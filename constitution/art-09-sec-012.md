@@ -1,0 +1,2 @@
+# Section IX-12. Transportation of railroad's own commodities.
+No railroad company shall transport, within this State, any article or commodity manufactured, mined, or produced by it, or under its authority, or which it may own, in whole or in part, or in which it may have any interest, direct or indirect, except such articles or commodities as may be necessary and intended for its use in the conduct of its business as a common carrier.

@@ -1,0 +1,2 @@
+# Section X-11. Officer receiving interest, profit or perquisities.
+The receiving, directly or indirectly, by any officer of the State, or of any county, city, or town, or member or officer of the Legislature, of any interest, profit, or perquisites, arising from the use or loan of public funds in his hands, or moneys to be raised through his agency for State, city, town, district, or county purposes shall be deemed a felony. Said offense shall be punished as may be prescribed by law, a part of which punishment shall be disqualification to hold office.

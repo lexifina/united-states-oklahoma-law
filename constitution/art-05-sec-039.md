@@ -1,0 +1,2 @@
+# Section V-39. Boards of Health, Dentistry and Pharmacy - Pure food commission - Present practitioners.
+The Legislature shall create a Board of Health, Board of Dentistry, Board of Pharmacy, and Pure Food Commission, and prescribe the duties of each. All physicians, dentists and pharmacists now legally registered and practicing in Oklahoma and Indian Territory shall be eligible to registration in the State of Oklahoma without examination or cost.

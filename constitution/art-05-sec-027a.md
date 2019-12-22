@@ -1,0 +1,3 @@
+# Section V-27A. Calling special sessions.
+(1) The Legislature may be called into special session by a written call for such purposes as may be specifically set out in the call, signed by two-thirds (2/3) of the members of the Senate and two-thirds (2/3) of the members of the House of Representatives when it is filed with the President Pro Tempore of the Senate and the Speaker of the House of Representatives who shall issue jointly an order for the convening of the special session.
+(2) Nothing in this section shall prevent the calling of a special session of the Legislature by the Governor, as provided by the Constitution of the State of Oklahoma.

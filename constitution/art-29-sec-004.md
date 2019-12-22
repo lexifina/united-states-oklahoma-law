@@ -1,0 +1,5 @@
+# Section XXIX-4. Investigation - Decision - Subpoena Power.
+Investigation - Decision - Subpoena Power.
+A. The Ethics Commission shall investigate and, when it deems appropriate, prosecute in the District Court of the County where the violation occurred, violations of its rules governing ethical conduct of campaigns, state officers, and state employees. Where uncertainty exists, as to the County in which the violation occurred, the Commission may prosecute in any County in which the evidence indicates the violation might have been committed. The Court may assess penalties for violation of ethical standards established by the Commission as provided in the Commission's rules. The Commission may settle investigations and accept payment of fines without Court order. Fines paid shall be deposited in the general revenue fund of the State.
+B. The Commission shall also enforce other ethics laws as prescribed by law.
+C. For purposes of its investigations, the Ethics Commission shall have subpoena power.

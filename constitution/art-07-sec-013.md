@@ -1,0 +1,2 @@
+# Section VII-13. Savings clause.
+In the event the abolition of any court or office hereunder is held by any court of competent jurisdiction to not take effect upon the effective date of this Article, then such court or office shall be abolished and terminated at the expiration of the term of the officer holding such office with the same provisions applying thereto, as if abolished on the effective date of this Article.

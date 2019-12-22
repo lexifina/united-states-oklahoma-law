@@ -1,0 +1,2 @@
+# Section XIV-1. Banking department.
+General laws shall be enacted by the legislature providing for the creation of a Banking Department, to be under the control of a Bank Commissioner, who shall be appointed by the Governor for a term of four years, by and with the consent of the Senate, with sufficient power and authority to regulate and control all State Banks, Loan, Trust and Guaranty Companies, under laws which shall provide for the protection of depositors and individual stockholders.

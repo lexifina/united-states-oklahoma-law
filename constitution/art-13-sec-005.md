@@ -1,0 +1,2 @@
+# Section XIII-5. Board of Education.
+The supervision of instruction in the public schools shall be vested in a Board of Education, whose powers and duties shall be prescribed by law. The Superintendent of Public Instruction shall be President of the Board. Until otherwise provided by law, the Governor, Secretary of State, and Attorney General shall be ex- officio members, and with the Superintendent, compose said Board of Education.

@@ -1,0 +1,2 @@
+# Section V-52. Revival of rights or remedies - Taking away cause of action or defense.
+The Legislature shall have no power to revive any right or remedy which may have become barred by lapse of time, or by any statute of this State. After suit has been commenced on any cause of action, the Legislature shall have no power to take away such cause of action, or destroy any existing defense to such suit.

@@ -1,0 +1,2 @@
+# Section IX-47. Power to alter, amend or repeal charters or franchises.
+The Legislature shall have power to alter, amend, annul, revoke, or repeal any charter of incorporation or franchise now existing and subject to be altered, amended, annulled, revoked, or repealed at the time of the adoption of this Constitution, or any that may be hereafter created, whenever in its opinion it may be injurious to the citizens of this State, in such manner, however, that no injustice shall be done to the incorporators.

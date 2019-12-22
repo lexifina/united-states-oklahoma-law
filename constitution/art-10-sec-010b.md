@@ -1,0 +1,2 @@
+# Section X-10B. Municipal-owned hospitals - Operation and maintenance - Tax levy.
+For the purpose of operating and maintaining municipal-owned hospitals in cities, the rates of taxation herein limited may be increased, when the rate of such increase and the purpose of which it is intended shall have been submitted to a vote of the people, and a majority of the qualified voters of such city, voting at such election, shall vote therefor: Provided, that such increase shall not exceed five (5) mills on the dollar of the assessed value of the taxable property in such city.

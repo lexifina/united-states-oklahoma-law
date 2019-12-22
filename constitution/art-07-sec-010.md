@@ -1,0 +1,3 @@
+# Section VII-10. Judicial Administrative Districts.
+(a) The State shall be divided into Judicial Administrative Districts, by statute, each consisting of one or more District Court Judicial Districts.
+(b) The District Judges and Associate District Judges in each Judicial Administrative District shall select one of the District Judges to serve at their pleasure as Presiding Judge of such Judicial Administrative District. Subject to the authority of the Supreme Court, the Presiding Judge shall have general administrative authority over the Judicial Administrative District, including authority to provide for divisions, general or specialized, and for appropriate times and places of holding court subject to law.

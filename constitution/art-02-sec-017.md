@@ -1,0 +1,2 @@
+# Section II-17. Indictment or information - Preliminary examination - Prosecutions in courts not of record.
+No person shall be prosecuted criminally in courts of record for felony or misdemeanor otherwise than by presentment or indictment or by information. No person shall be prosecuted for a felony by information without having had a preliminary examination before an examining magistrate, or having waived such preliminary examination. Prosecutions may be instituted in courts not of record upon a duly verified complaint.

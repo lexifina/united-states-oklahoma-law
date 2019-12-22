@@ -1,0 +1,3 @@
+# Section X-23b. Contracts for incarceration of state inmates with counties and municipalities.
+A. The state is hereby authorized to enter into contracts for the incarceration of state prisoners with counties, municipalities, or any combination thereof authorized by law. The term of such a contract shall not exceed fifteen (15) years.
+B. Any county, municipality or combination thereof authorized by law that builds a new jail or provides for capital improvements to an existing jail to enter into a contract authorized by subsection A of this section may provide for financing of the project by any means authorized by the provisions of this Constitution or state law.

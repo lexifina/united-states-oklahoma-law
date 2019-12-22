@@ -1,0 +1,2 @@
+# Section VI-3. Eligibility to certain state offices.
+No person shall be eligible to the office of Governor, Lieutenant Governor, Secretary of State, State Auditor and Inspector, Attorney General, State Treasurer or Superintendent of Public Instruction except a citizen of the United States of the age of not less than thirty-one (31) years and who shall have been ten (10) years next preceding his or her election, or appointment, a qualified elector of this state.

@@ -1,0 +1,2 @@
+# Section V-28. Senate - President pro tempore - Standing committees.
+The Senate shall, at the beginning of each regular session and at such other times as may be necessary, elect one of its members President pro tempore, who shall preside over its deliberations in the absence or place of the Lieutenant Governor; and the Senate shall provide for all its standing committees and, by a majority vote, elect the members thereof.

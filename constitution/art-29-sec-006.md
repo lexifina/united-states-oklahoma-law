@@ -1,0 +1,2 @@
+# Section XXIX-6. Criminal Penalties.
+Criminal Penalties. This Article shall not prevent enactment of laws prohibiting certain conduct by political candidates, government officers, government employees, or other persons and providing criminal penalties for such conduct. It also shall not prevent enactment of laws governing ethical conduct of local political subdivision officers and employees, nor shall it prevent enactment of law governing conditions of state government employment.

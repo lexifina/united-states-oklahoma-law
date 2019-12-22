@@ -1,0 +1,2 @@
+# Section II-11. Officers - Personal attention to duties - Intoxication.
+Every person elected or appointed to any office or employment of trust or profit under the laws of the State, or under any ordinance of any municipality thereof, shall give personal attention to the duties of the office to which he is elected or appointed. Drunkenness and the excessive use of intoxicating liquors while in office shall constitute sufficient cause for impeachment or removal therefrom.

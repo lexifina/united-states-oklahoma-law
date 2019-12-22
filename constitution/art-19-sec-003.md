@@ -1,0 +1,3 @@
+# Section XIX-3. Non-profit insurance organizations.
+The revenue and tax provisions of this Constitution shall not include, but the State shall provide for, the following classes of insurance organizations not conducted for profit, and insuring only their own members:
+First, farm companies insuring farm property and products thereon; second, Trades Insurance Companies insuring the property and interest of one line of business; third, Fraternal Life, Health, and Accident Insurance in Fraternal and Civic Orders, and in all of which the interests of the members of each respectively shall be uniform and mutual.

@@ -1,0 +1,2 @@
+# Section II-29. Transportation out of State.
+No person shall be transported out of the State for any offense committed within the State, nor shall any person be transported out of the State for any purpose, without his consent, except by due process of law; but nothing in this provision shall prevent the operation of extradition laws, or the transporting of persons sentenced for crime, to other states for the purpose of incarceration.

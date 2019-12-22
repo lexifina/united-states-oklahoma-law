@@ -1,0 +1,2 @@
+# Section IX-7. Movable property as personal property - Liability of property to execution.
+The rolling stock and all other movable property belonging to any railroad, transportation, transmission, or other public service corporation in this State, shall be considered personal property, and its real and personal property, or any part thereof, shall be liable to execution and sale in the same manner as the property of individuals; and the Legislature shall pass no laws exempting any such property from execution and sale.

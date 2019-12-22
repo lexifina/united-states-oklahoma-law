@@ -1,0 +1,2 @@
+# Section II-21. Self-incrimination - Double jeopardy.
+No person shall be compelled to give evidence which will tend to incriminate him, except as in this Constitution specifically provided; nor shall any person, after having been once acquitted by a jury, be again put in jeopardy of life or liberty for that of which he has been acquitted. Nor shall any person be twice put in jeopardy of life or liberty for the same offense.

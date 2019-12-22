@@ -1,0 +1,5 @@
+# Section XI-7. Grants of commercial and agricultural leases in trust property.
+The Commissioners of the Land Office are authorized to grant commercial leases and agricultural leases in trust property. Commercial leases shall not exceed fifty-five (55) years. The granting of any commercial lease in excess of three (3) years shall be by public bidding at not less than fair market value. All commercial leases shall provide for fair market value throughout the term of the lease.
+Agricultural leases of trust property shall be limited to a maximum of five (5) years and shall be by public bidding at not less than fair market value.
+The granting of any interest in trust property at less than fair market value or not in compliance with this section is void. Any permanent improvement made on commercial trust property from and after the passage of this amendment shall revert to the trust at the end of the lease.
+The Legislature shall enact the laws necessary to implement the provisions of this section and to foster the fair and equitable administration of trust property.

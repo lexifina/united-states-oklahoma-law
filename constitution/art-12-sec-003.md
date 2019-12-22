@@ -1,0 +1,3 @@
+# Section XII-3. Statutes nullified - Exemption as to purchase price restricted - Incumbering personal exemptions - Change or amendment of article.
+After the adoption of this constitution, paragraph three of section four, and section five, of Chapter thirty-four, Statutes of Oklahoma, of 1893, shall be inoperative: Provided, That no property shall be exempt for any part of the purchase price while the same or any part thereof remains in the possession of the original vendee, or in possession of any purchaser from such vendee, with notice: And Provided Further, Nothing in this Constitution shall prevent or prohibit any person from mortgaging or encumbering his personal exemptions.
+The Legislature may change or amend the terms of this article.

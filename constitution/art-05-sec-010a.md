@@ -1,0 +1,6 @@
+# Section V-10A. House of Representatives - Number of members - Formula - Tenure.
+The House of Representatives shall consist of the number of Representatives as determined by the formula and procedure set forth herein. The number of members of the House of Representatives to which each county shall be entitled shall be determined according to the following formula:
+a. The total population of the state as ascertained by the most recent Federal Decennial Census shall be divided by the number one hundred and the quotient shall be the ratio of representation in the House of Representatives, except as otherwise provided in this Article.
+b. Every county having a population less than one full ratio shall be assigned one Representative; every county containing an entire ratio but less than two ratios shall be assigned two Representatives; every county containing a population of two entire ratios but less than three ratios shall be assigned three Representatives; and every county containing a population of three entire ratios but less than four ratios shall be assigned four Representatives.
+After the first four Representatives, a county shall qualify for additional representation on the basis of two whole ratios of population for each additional Representative.
+Each Representative nominated and elected shall hold office for two years.

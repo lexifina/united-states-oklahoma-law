@@ -1,0 +1,2 @@
+# Section IX-41. Banks and trust companies - Restriction on controlling other stock.
+No trust company, or bank or banking company shall own, hold, or control, in any manner whatever, the stock of any other trust company or bank or banking company, except such stock as may be pledged in good faith to secure bona fide indebtedness, acquired upon foreclosure, execution sale, or otherwise for the satisfaction of debt; and such stock shall be disposed of in the time and manner hereinbefore provided.
