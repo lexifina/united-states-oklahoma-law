@@ -1,0 +1,9 @@
+{
+  "path": "us-ok",
+  "code": "OK",
+  "name": "Oklahoma",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-oklahoma-law",
+  "build": "built: Constitution only, one version (Oklahoma State Senate PDF of December 2019, dated 2019-12-22); statutes not taken (robots.txt)",
+  "register_date": "2026-10-30"
+}

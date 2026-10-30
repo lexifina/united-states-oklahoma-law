@@ -1,0 +1,19 @@
+{
+ "country": "US-OK",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Oklahoma",
+   "url": "https://oksenate.gov/sites/default/files/2019-12/AllOKConstitutionArticles.pdf",
+   "versions": [
+    {
+     "from": "2019-12-22",
+     "units": 404,
+     "source_url": "https://oksenate.gov/sites/default/files/2019-12/AllOKConstitutionArticles.pdf",
+     "sha256": "9f44fc422e3d6d393c37c5a88c22201701200392aa12d413505d87fb476b6a71"
+    }
+   ]
+  }
+ ]
+}
