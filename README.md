@@ -1,5 +1,7 @@
 # Oklahoma: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Oklahoma, United States, which global-law reads at `united-states/oklahoma/acts/`.
+
 The Constitution of Oklahoma as a git repository: one file per section (404 provisions), one paragraph per line, so `git blame` works line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **What is in it now**
