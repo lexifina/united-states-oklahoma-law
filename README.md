@@ -107,7 +107,7 @@ Titles whose every section has been repealed or renumbered (9, 32, 33, 39) have 
 
 ## Dates
 
-- The statute PDFs state no "current through" date. Each title is dated by its file's date on the Legislature's server (30 December 2025 and 31 December 2025; the PDFs' own creation dates agree): the edition carries the acts of the 2025 regular session. Some sections print text of 2025 acts that took effect later, on 1 January 2026 or 1 July 2026; each title's version note says how many. Acts of the 2026 session are not in this edition.
+- The statute PDFs state no "current through" date. Most title versions retain the file dates on the Legislature's server (30 December 2025 and 31 December 2025) while their section histories are reviewed. The official section histories establish earlier title-level in-force dates for Titles 7 (1 November 2019), 8 (1 November 2021), 27 (1 November 2025), 31 (1 November 2024), 83 (1 November 2015), and 85 (1 July 2024, when section 380 moved to Title 74). The edition carries acts of the 2025 regular session, including some provisions that took effect on 1 January 2026 or 1 July 2026. Acts of the 2026 session are not in this edition.
 - The Constitution is dated **22 December 2019**, the date the Senate's server gives for its PDF.
 - Every first version is credited to the publisher as "oldest version available": the PDFs give the current text only.
 
