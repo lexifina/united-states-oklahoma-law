@@ -120,7 +120,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2019-11-01",
      "units": 14,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf",
      "sha256": "79af64de26e61f3b00217e346a50d7ee518684102b85f4acec112a940df4a7b8"
@@ -134,7 +134,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2021-11-01",
      "units": 69,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf",
      "sha256": "15429bc956b3ada9225f1f3cf0c97392612240383f79f0b2d922386327547efe"
@@ -428,7 +428,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os27.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2025-11-01",
      "units": 20,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os27.pdf",
      "sha256": "9c6eb406948997821fe2ca90efc4197e892624a6c14defc39226c061a3b9c367"
@@ -498,7 +498,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os31.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2024-11-01",
      "units": 17,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os31.pdf",
      "sha256": "41d8826d11145d18432e8a7e738fd3f54a1d7951280ef6bb2ad4a1114533b07e"
@@ -1170,7 +1170,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os83.pdf",
    "versions": [
     {
-     "from": "2025-12-31",
+     "from": "2015-11-01",
      "units": 1,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os83.pdf",
      "sha256": "092985cb73afc9ae86749923a11cce69d346f88784a8cac1dd369cf740952906"
@@ -1198,7 +1198,7 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85.pdf",
    "versions": [
     {
-     "from": "2025-12-31",
+     "from": "2022-11-01",
      "units": 2,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85.pdf",
      "sha256": "dd3ff41d405e051bf7f66a3258f37479f381199ee70b54ea71f5093bc305049e"

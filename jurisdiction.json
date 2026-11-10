@@ -4,6 +4,6 @@
   "name": "Oklahoma",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-oklahoma-law",
-  "build": "built: Constitution (Oklahoma State Senate PDF of December 2019) and the Oklahoma Statutes (85 titles, 32731 sections, Legislature PDFs of December 2025), one version each",
+  "build": "built: Constitution (Oklahoma State Senate PDF of December 2019) and the Oklahoma Statutes (85 titles, 32731 sections, Legislature PDFs of December 2025), one current-text version each; six title-level in-force dates corrected from official section histories",
   "register_date": "2026-10-30"
 }

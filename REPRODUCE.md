@@ -108,8 +108,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-04` | Oklahoma Statutes, Title 4: Animals | 1 | 2025-12-30 to 2025-12-30 |
 | `title-05` | Oklahoma Statutes, Title 5: Attorneys and State Bar | 1 | 2025-12-30 to 2025-12-30 |
 | `title-06` | Oklahoma Statutes, Title 6: Banks and Trust Companies | 1 | 2025-12-30 to 2025-12-30 |
-| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2025-12-30 to 2025-12-30 |
-| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2025-12-30 to 2025-12-30 |
+| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2019-11-01 to 2019-11-01 |
+| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2021-11-01 to 2021-11-01 |
 | `title-10` | Oklahoma Statutes, Title 10: Children | 1 | 2025-12-30 to 2025-12-30 |
 | `title-10a` | Oklahoma Statutes, Title 10A: Children and Juvenile Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-11` | Oklahoma Statutes, Title 11: Cities and Towns | 1 | 2025-12-30 to 2025-12-30 |
@@ -130,12 +130,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-24` | Oklahoma Statutes, Title 24: Debtor and Creditor | 1 | 2025-12-30 to 2025-12-30 |
 | `title-25` | Oklahoma Statutes, Title 25: Definitions and General Provisions | 1 | 2025-12-30 to 2025-12-30 |
 | `title-26` | Oklahoma Statutes, Title 26: Elections | 1 | 2025-12-30 to 2025-12-30 |
-| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-12-30 to 2025-12-30 |
+| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-11-01 to 2025-11-01 |
 | `title-27a` | Oklahoma Statutes, Title 27A: Environment and Natural Resources | 1 | 2025-12-30 to 2025-12-30 |
 | `title-28` | Oklahoma Statutes, Title 28: Fees | 1 | 2025-12-30 to 2025-12-30 |
 | `title-29` | Oklahoma Statutes, Title 29: Game and Fish | 1 | 2025-12-30 to 2025-12-30 |
 | `title-30` | Oklahoma Statutes, Title 30: Guardian and Ward | 1 | 2025-12-30 to 2025-12-30 |
-| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2025-12-30 to 2025-12-30 |
+| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2024-11-01 to 2024-11-01 |
 | `title-34` | Oklahoma Statutes, Title 34: Initiative and Referendum | 1 | 2025-12-30 to 2025-12-30 |
 | `title-36` | Oklahoma Statutes, Title 36: Insurance | 1 | 2025-12-30 to 2025-12-30 |
 | `title-37` | Oklahoma Statutes, Title 37: Intoxicating Liquors | 1 | 2025-12-30 to 2025-12-30 |
@@ -183,12 +183,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-79` | Oklahoma Statutes, Title 79: Trusts and Pools | 1 | 2025-12-31 to 2025-12-31 |
 | `title-80` | Oklahoma Statutes, Title 80: United States | 1 | 2025-12-31 to 2025-12-31 |
 | `title-82` | Oklahoma Statutes, Title 82: Waters and Water Rights | 1 | 2025-12-31 to 2025-12-31 |
-| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2025-12-31 to 2025-12-31 |
+| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2015-11-01 to 2015-11-01 |
 | `title-84` | Oklahoma Statutes, Title 84: Wills and Succession | 1 | 2025-12-31 to 2025-12-31 |
-| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
+| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2022-11-01 to 2022-11-01 |
 | `title-85a` | Oklahoma Statutes, Title 85A: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 
-The build made 87 commits:
+The build made 99 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -212,7 +212,7 @@ When a law gives no date of its own, the default rule applies: Oklahoma Constitu
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da3e0487bef9605a97582ed73c2a868a1b5c34d3b370edff60cb3b957bf349c7` (64935853 bytes).
+- Corpus: sha256 `073e297be377ea81a23e831c3c6f8cf36f5d5d436ddf835c5584dd460bb32c04` (65097111 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -313,6 +313,12 @@ No second build of this corpus has been compared yet.
 - Okla. Stat. Title 84: one version, dated 2025-12-31, the file date of the Legislature's PDF (os84.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85A: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85A.pdf), which states no 'current through' date.
+- title-07: published date 2025-12-30; source effective date 2019-11-01. Oklahoma Legislature, os7.pdf p. 3: Laws 2019, c. 51, § 1, eff. Nov. 1, 2019. Law text copied unchanged from title-07.json.
+- title-08: published date 2025-12-30; source effective date 2021-11-01. Oklahoma Legislature, os8.pdf p. 17: Added by Laws 2021, c. 198, § 1, eff. Nov. 1, 2021. Law text copied unchanged from title-08.json.
+- title-27: published date 2025-12-30; source effective date 2025-11-01. Oklahoma Legislature, os27.pdf p. 4: Laws 2025, c. 489, § 1, eff. Nov. 1, 2025. Law text copied unchanged from title-27.json.
+- title-31: published date 2025-12-30; source effective date 2024-11-01. Oklahoma Legislature, os31.pdf p. 4: Laws 2024, c. 70, § 1, eff. Nov. 1, 2024. Law text copied unchanged from title-31.json.
+- Title 83 section 119 has one operative section, added by Laws 2015, c. 253, section 1, effective November 1, 2015 (official PDF p. 5). The former baseline used the source PDF file date. Law text is copied unchanged from the earlier published part.
+- title-85: published date 2025-12-31; source effective date 2022-11-01. Oklahoma Legislature, os85.pdf p. 37: Laws 2022, c. 77, § 51, eff. Nov. 1, 2022. Law text copied unchanged from title-85.json.
 
 ## What AI did and did not do
 
@@ -410,3 +416,9 @@ Model use at data-build time:
 - none
 - none
 - none
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected the printed effective date and authored metadata; law text was copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
