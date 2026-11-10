@@ -1,6 +1,6 @@
 # Oklahoma Statutes, Title 14: Congressional and Legislative Districts
 
-Okla. Stat. tit. 14 · 1 versions, from 2025-12-30 (latest in force: 2025-12-30) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os14.pdf>
+Okla. Stat. tit. 14 · 1 versions, from 2022-07-01 (latest in force: 2022-07-01) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os14.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

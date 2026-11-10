@@ -116,7 +116,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-12` | Oklahoma Statutes, Title 12: Civil Procedure | 1 | 2025-12-30 to 2025-12-30 |
 | `title-12a` | Oklahoma Statutes, Title 12A: Uniform Commercial Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-13` | Oklahoma Statutes, Title 13: Common Carriers | 1 | 2025-12-30 to 2025-12-30 |
-| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2025-12-30 to 2025-12-30 |
+| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2022-07-01 to 2022-07-01 |
 | `title-14a` | Oklahoma Statutes, Title 14A: Consumer Credit Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-15` | Oklahoma Statutes, Title 15: Contracts | 1 | 2025-12-30 to 2025-12-30 |
 | `title-16` | Oklahoma Statutes, Title 16: Conveyances | 1 | 2025-12-30 to 2025-12-30 |
@@ -188,7 +188,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 | `title-85a` | Oklahoma Statutes, Title 85A: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 
-The build made 87 commits:
+The build made 89 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -212,7 +212,7 @@ When a law gives no date of its own, the default rule applies: Oklahoma Constitu
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da3e0487bef9605a97582ed73c2a868a1b5c34d3b370edff60cb3b957bf349c7` (64935853 bytes).
+- Corpus: sha256 `fc4562f03856ed1e92441310264e28ca17d07216209268cac10b1b40f14c8ea8` (66545769 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -313,6 +313,7 @@ No second build of this corpus has been compared yet.
 - Okla. Stat. Title 84: one version, dated 2025-12-31, the file date of the Legislature's PDF (os84.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85A: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85A.pdf), which states no 'current through' date.
+- title-14: earlier date 2025-12-30; title-edition effective date 2022-07-01. Oklahoma Legislature, os14.pdf p. 91: fice. Added by Laws 2011, c. 289, § 1, eff. Nov. 1, 2011. Amended by Laws 2021, c. 481, § 1; Laws 2021, 1st Ex. Sess., c. 3, § 1, emerg. eff. Nov. 22, 2021; Laws 2022, c. 45, § 1, eff. July 1, 2022. §14-80.10. Repealed by Laws 1991, c. 1
 
 ## What AI did and did not do
 
@@ -410,3 +411,4 @@ Model use at data-build time:
 - none
 - none
 - none
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
