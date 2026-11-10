@@ -108,54 +108,54 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-04` | Oklahoma Statutes, Title 4: Animals | 1 | 2025-12-30 to 2025-12-30 |
 | `title-05` | Oklahoma Statutes, Title 5: Attorneys and State Bar | 1 | 2025-12-30 to 2025-12-30 |
 | `title-06` | Oklahoma Statutes, Title 6: Banks and Trust Companies | 1 | 2025-12-30 to 2025-12-30 |
-| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2025-12-30 to 2025-12-30 |
-| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2025-12-30 to 2025-12-30 |
+| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2019-11-01 to 2019-11-01 |
+| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2021-11-01 to 2021-11-01 |
 | `title-10` | Oklahoma Statutes, Title 10: Children | 1 | 2025-12-30 to 2025-12-30 |
 | `title-10a` | Oklahoma Statutes, Title 10A: Children and Juvenile Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-11` | Oklahoma Statutes, Title 11: Cities and Towns | 1 | 2025-12-30 to 2025-12-30 |
 | `title-12` | Oklahoma Statutes, Title 12: Civil Procedure | 1 | 2025-12-30 to 2025-12-30 |
 | `title-12a` | Oklahoma Statutes, Title 12A: Uniform Commercial Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-13` | Oklahoma Statutes, Title 13: Common Carriers | 1 | 2025-12-30 to 2025-12-30 |
-| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2025-12-30 to 2025-12-30 |
-| `title-14a` | Oklahoma Statutes, Title 14A: Consumer Credit Code | 1 | 2025-12-30 to 2025-12-30 |
+| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2022-07-01 to 2022-07-01 |
+| `title-14a` | Oklahoma Statutes, Title 14A: Consumer Credit Code | 1 | 2025-11-01 to 2025-11-01 |
 | `title-15` | Oklahoma Statutes, Title 15: Contracts | 1 | 2025-12-30 to 2025-12-30 |
-| `title-16` | Oklahoma Statutes, Title 16: Conveyances | 1 | 2025-12-30 to 2025-12-30 |
+| `title-16` | Oklahoma Statutes, Title 16: Conveyances | 1 | 2025-11-01 to 2025-11-01 |
 | `title-17` | Oklahoma Statutes, Title 17: Corporation Commission | 1 | 2025-12-30 to 2025-12-30 |
 | `title-18` | Oklahoma Statutes, Title 18: Corporations | 1 | 2025-12-30 to 2025-12-30 |
 | `title-19` | Oklahoma Statutes, Title 19: Counties and County Officers | 1 | 2025-12-30 to 2025-12-30 |
 | `title-20` | Oklahoma Statutes, Title 20: Courts | 1 | 2025-12-30 to 2025-12-30 |
 | `title-21` | Oklahoma Statutes, Title 21: Crimes and Punishments | 1 | 2025-12-30 to 2025-12-30 |
 | `title-22` | Oklahoma Statutes, Title 22: Criminal Procedure | 1 | 2025-12-30 to 2025-12-30 |
-| `title-23` | Oklahoma Statutes, Title 23: Damages | 1 | 2025-12-30 to 2025-12-30 |
+| `title-23` | Oklahoma Statutes, Title 23: Damages | 1 | 2025-09-01 to 2025-09-01 |
 | `title-24` | Oklahoma Statutes, Title 24: Debtor and Creditor | 1 | 2025-12-30 to 2025-12-30 |
-| `title-25` | Oklahoma Statutes, Title 25: Definitions and General Provisions | 1 | 2025-12-30 to 2025-12-30 |
+| `title-25` | Oklahoma Statutes, Title 25: Definitions and General Provisions | 1 | 2025-10-01 to 2025-10-01 |
 | `title-26` | Oklahoma Statutes, Title 26: Elections | 1 | 2025-12-30 to 2025-12-30 |
-| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-12-30 to 2025-12-30 |
+| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-11-01 to 2025-11-01 |
 | `title-27a` | Oklahoma Statutes, Title 27A: Environment and Natural Resources | 1 | 2025-12-30 to 2025-12-30 |
-| `title-28` | Oklahoma Statutes, Title 28: Fees | 1 | 2025-12-30 to 2025-12-30 |
+| `title-28` | Oklahoma Statutes, Title 28: Fees | 1 | 2025-11-01 to 2025-11-01 |
 | `title-29` | Oklahoma Statutes, Title 29: Game and Fish | 1 | 2025-12-30 to 2025-12-30 |
-| `title-30` | Oklahoma Statutes, Title 30: Guardian and Ward | 1 | 2025-12-30 to 2025-12-30 |
-| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2025-12-30 to 2025-12-30 |
+| `title-30` | Oklahoma Statutes, Title 30: Guardian and Ward | 1 | 2025-11-01 to 2025-11-01 |
+| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2024-11-01 to 2024-11-01 |
 | `title-34` | Oklahoma Statutes, Title 34: Initiative and Referendum | 1 | 2025-12-30 to 2025-12-30 |
 | `title-36` | Oklahoma Statutes, Title 36: Insurance | 1 | 2025-12-30 to 2025-12-30 |
 | `title-37` | Oklahoma Statutes, Title 37: Intoxicating Liquors | 1 | 2025-12-30 to 2025-12-30 |
 | `title-37a` | Oklahoma Statutes, Title 37A: Alcoholic Beverages | 1 | 2025-12-30 to 2025-12-30 |
-| `title-38` | Oklahoma Statutes, Title 38: Jurors | 1 | 2025-12-30 to 2025-12-30 |
+| `title-38` | Oklahoma Statutes, Title 38: Jurors | 1 | 2023-11-01 to 2023-11-01 |
 | `title-40` | Oklahoma Statutes, Title 40: Labor | 1 | 2025-12-30 to 2025-12-30 |
-| `title-41` | Oklahoma Statutes, Title 41: Landlord and Tenant | 1 | 2025-12-30 to 2025-12-30 |
+| `title-41` | Oklahoma Statutes, Title 41: Landlord and Tenant | 1 | 2023-11-01 to 2023-11-01 |
 | `title-42` | Oklahoma Statutes, Title 42: Liens | 1 | 2025-12-30 to 2025-12-30 |
 | `title-43` | Oklahoma Statutes, Title 43: Marriage and Family | 1 | 2025-12-30 to 2025-12-30 |
 | `title-43a` | Oklahoma Statutes, Title 43A: Mental Health | 1 | 2025-12-30 to 2025-12-30 |
 | `title-44` | Oklahoma Statutes, Title 44: Militia | 1 | 2025-12-30 to 2025-12-30 |
-| `title-45` | Oklahoma Statutes, Title 45: Mines and Mining | 1 | 2025-12-30 to 2025-12-30 |
-| `title-46` | Oklahoma Statutes, Title 46: Mortgages | 1 | 2025-12-30 to 2025-12-30 |
+| `title-45` | Oklahoma Statutes, Title 45: Mines and Mining | 1 | 2019-11-01 to 2019-11-01 |
+| `title-46` | Oklahoma Statutes, Title 46: Mortgages | 1 | 2021-11-01 to 2021-11-01 |
 | `title-47` | Oklahoma Statutes, Title 47: Motor Vehicles | 1 | 2025-12-30 to 2025-12-30 |
 | `title-49` | Oklahoma Statutes, Title 49: Notaries Public | 1 | 2025-12-30 to 2025-12-30 |
-| `title-50` | Oklahoma Statutes, Title 50: Nuisances | 1 | 2025-12-30 to 2025-12-30 |
+| `title-50` | Oklahoma Statutes, Title 50: Nuisances | 1 | 2025-11-01 to 2025-11-01 |
 | `title-51` | Oklahoma Statutes, Title 51: Officers | 1 | 2025-12-30 to 2025-12-30 |
 | `title-52` | Oklahoma Statutes, Title 52: Oil and Gas | 1 | 2025-12-30 to 2025-12-30 |
-| `title-53` | Oklahoma Statutes, Title 53: Oklahoma Historical Societies and Associations | 1 | 2025-12-30 to 2025-12-30 |
-| `title-54` | Oklahoma Statutes, Title 54: Partnership | 1 | 2025-12-30 to 2025-12-30 |
+| `title-53` | Oklahoma Statutes, Title 53: Oklahoma Historical Societies and Associations | 1 | 2023-07-01 to 2023-07-01 |
+| `title-54` | Oklahoma Statutes, Title 54: Partnership | 1 | 2021-11-01 to 2021-11-01 |
 | `title-56` | Oklahoma Statutes, Title 56: Poor Persons | 1 | 2025-12-30 to 2025-12-30 |
 | `title-57` | Oklahoma Statutes, Title 57: Prisons and Reformatories | 1 | 2025-12-30 to 2025-12-30 |
 | `title-58` | Oklahoma Statutes, Title 58: Probate Procedure | 1 | 2025-12-30 to 2025-12-30 |
@@ -165,7 +165,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-62` | Oklahoma Statutes, Title 62: Public Finance | 1 | 2025-12-30 to 2025-12-30 |
 | `title-63` | Oklahoma Statutes, Title 63: Public Health and Safety | 1 | 2025-12-31 to 2025-12-31 |
 | `title-64` | Oklahoma Statutes, Title 64: Public Lands | 1 | 2025-12-31 to 2025-12-31 |
-| `title-65` | Oklahoma Statutes, Title 65: Public Libraries | 1 | 2025-12-31 to 2025-12-31 |
+| `title-65` | Oklahoma Statutes, Title 65: Public Libraries | 1 | 2024-07-01 to 2024-07-01 |
 | `title-66` | Oklahoma Statutes, Title 66: Railroads | 1 | 2025-12-31 to 2025-12-31 |
 | `title-67` | Oklahoma Statutes, Title 67: Records | 1 | 2025-12-31 to 2025-12-31 |
 | `title-68` | Oklahoma Statutes, Title 68: Revenue and Taxation | 1 | 2025-12-31 to 2025-12-31 |
@@ -174,21 +174,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-71` | Oklahoma Statutes, Title 71: Securities | 1 | 2025-12-31 to 2025-12-31 |
 | `title-72` | Oklahoma Statutes, Title 72: Soldiers and Sailors | 1 | 2025-12-31 to 2025-12-31 |
 | `title-73` | Oklahoma Statutes, Title 73: State Capital and Capitol Building | 1 | 2025-12-31 to 2025-12-31 |
-| `title-74-appendix-1` | Oklahoma Statutes, Title 74, Appendix I: Ethics Commission Rules | 1 | 2025-12-31 to 2025-12-31 |
+| `title-74-appendix-1` | Oklahoma Statutes, Title 74, Appendix I: Ethics Commission Rules | 1 | 2023-11-01 to 2023-11-01 |
 | `title-74` | Oklahoma Statutes, Title 74: State Government | 1 | 2025-12-31 to 2025-12-31 |
 | `title-75` | Oklahoma Statutes, Title 75: Statutes and Reports | 1 | 2025-12-31 to 2025-12-31 |
 | `title-75a` | Oklahoma Statutes, Title 75A | 1 | 2025-12-31 to 2025-12-31 |
-| `title-76` | Oklahoma Statutes, Title 76: Torts | 1 | 2025-12-31 to 2025-12-31 |
-| `title-78` | Oklahoma Statutes, Title 78: Trade Marks and Labels | 1 | 2025-12-31 to 2025-12-31 |
+| `title-76` | Oklahoma Statutes, Title 76: Torts | 1 | 2024-09-15 to 2024-09-15 |
+| `title-78` | Oklahoma Statutes, Title 78: Trade Marks and Labels | 1 | 2021-05-28 to 2021-05-28 |
 | `title-79` | Oklahoma Statutes, Title 79: Trusts and Pools | 1 | 2025-12-31 to 2025-12-31 |
-| `title-80` | Oklahoma Statutes, Title 80: United States | 1 | 2025-12-31 to 2025-12-31 |
+| `title-80` | Oklahoma Statutes, Title 80: United States | 1 | 2025-11-01 to 2025-11-01 |
 | `title-82` | Oklahoma Statutes, Title 82: Waters and Water Rights | 1 | 2025-12-31 to 2025-12-31 |
-| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2025-12-31 to 2025-12-31 |
+| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2015-11-01 to 2015-11-01 |
 | `title-84` | Oklahoma Statutes, Title 84: Wills and Succession | 1 | 2025-12-31 to 2025-12-31 |
-| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
+| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2024-07-01 to 2024-07-01 |
 | `title-85a` | Oklahoma Statutes, Title 85A: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 
-The build made 87 commits:
+The build made 137 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -212,7 +212,7 @@ When a law gives no date of its own, the default rule applies: Oklahoma Constitu
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da3e0487bef9605a97582ed73c2a868a1b5c34d3b370edff60cb3b957bf349c7` (64935853 bytes).
+- Corpus: sha256 `6cced544896f2df9a92a5474dbc31d510fd165d6af4fe31cca982cb513268002` (69729708 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -313,6 +313,31 @@ No second build of this corpus has been compared yet.
 - Okla. Stat. Title 84: one version, dated 2025-12-31, the file date of the Legislature's PDF (os84.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85A: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85A.pdf), which states no 'current through' date.
+- title-07: published date 2025-12-30; source effective date 2019-11-01. Oklahoma Legislature, os7.pdf p. 3: Laws 2019, c. 51, § 1, eff. Nov. 1, 2019. Law text copied unchanged from title-07.json.
+- title-08: published date 2025-12-30; source effective date 2021-11-01. Oklahoma Legislature, os8.pdf p. 17: Added by Laws 2021, c. 198, § 1, eff. Nov. 1, 2021. Law text copied unchanged from title-08.json.
+- title-27: published date 2025-12-30; source effective date 2025-11-01. Oklahoma Legislature, os27.pdf p. 4: Laws 2025, c. 489, § 1, eff. Nov. 1, 2025. Law text copied unchanged from title-27.json.
+- title-31: published date 2025-12-30; source effective date 2024-11-01. Oklahoma Legislature, os31.pdf p. 4: Laws 2024, c. 70, § 1, eff. Nov. 1, 2024. Law text copied unchanged from title-31.json.
+- Title 83 section 119 has one operative section, added by Laws 2015, c. 253, section 1, effective November 1, 2015 (official PDF p. 5). The former baseline used the source PDF file date. Law text is copied unchanged from the earlier published part.
+- title-85: published date 2025-12-31; source effective date 2024-07-01. Oklahoma Legislature, os85.pdf p. 35: §85-380. Renumbered as § 85.70 of Title 74 by Laws 2024, c. 256, § 3, eff. July 1, 2024. Law text copied unchanged from title-85.json.
+- title-14: earlier date 2025-12-30; title-edition effective date 2022-07-01. Oklahoma Legislature, os14.pdf p. 91: fice. Added by Laws 2011, c. 289, § 1, eff. Nov. 1, 2011. Amended by Laws 2021, c. 481, § 1; Laws 2021, 1st Ex. Sess., c. 3, § 1, emerg. eff. Nov. 22, 2021; Laws 2022, c. 45, § 1, eff. July 1, 2022. §14-80.10. Repealed by Laws 1991, c. 1
+- title-14a: earlier date 2025-12-30; title-edition effective date 2025-11-01. Oklahoma Legislature, os14A.pdf p. 2: §14A-2-416. Change in terms of revolving charge accounts. ...................................................................... 74 §14A-2-417. Repealed by Laws 2025, c. 410, § 2, eff. Nov. 1, 2025. ......................................
+- title-16: earlier date 2025-12-30; title-edition effective date 2025-11-01. Oklahoma Legislature, os16.pdf p. 44:  a writ of mandamus to compel the county clerk to record the notice pursuant to the provisions of Section 75 of Title 16 of the Oklahoma Statutes. Added by Laws 2025, c. 109, § 1, eff. Nov. 1, 2025. §16-401. Short title - Oklahoma Unifor
+- title-23: earlier date 2025-12-30; title-edition effective date 2025-09-01. Oklahoma Legislature, os23.pdf p. 1:  to return general verdict. ..................................................................................................... 11 §23-61.2. Repealed by Laws 2025, c. 311, § 11, eff. Sept. 1, 2025. ......................................
+- title-25: earlier date 2025-12-30; title-edition effective date 2025-10-01. Oklahoma Legislature, os25.pdf p. 24: oid duplication in numbering. §25-90.30. Dwarfism Awareness Day. The twenty-fifth day of October is hereby designated as “Dwarfism Awareness Day”. Added by Laws 2025, c. 159, § 2, eff. Oct. 1, 2025. §25-91. State flag - Design. A. The ba
+- title-28: earlier date 2025-12-30; title-edition effective date 2025-11-01. Oklahoma Legislature, os28.pdf p. 28: § 1, operative July 1, 1988; Laws 1994, c. 93, § 1, eff. July 1, 1994; Laws 2000, c. 135, § 1, eff. Nov. 1, 2000; Laws 2004, c. 65, § 1, eff. Nov. 1, 2004; Laws 2025, c. 337, § 1, eff. Nov. 1, 2025. §28-151. Collection of fees, fines, co
+- title-30: earlier date 2025-12-30; title-edition effective date 2025-11-01. Oklahoma Legislature, os30.pdf p. 21: 90; Laws 2004, c. 158, § 1; Laws 2018, c. 196, § 1, eff. Nov. 1, 2018; Laws 2019, c. 401, § 1, eff. Nov. 1, 2019; Laws 2021, c. 26, § 1, eff. Nov. 1, 2021; Laws 2025, c. 375, § 7, eff. Nov. 1, 2025. §30-2-102. Nominations of guardian. A.
+- title-38: earlier date 2025-12-30; title-edition effective date 2023-11-01. Oklahoma Legislature, os38.pdf p. 13:  1, eff. Nov. 1, 2013; Laws 2014, c. 15, § 1, eff. Nov. 1, 2014; Laws 2015, c. 242, § 11, emerg. eff. May 4, 2015; Laws 2021, c. 164, § 1, eff. Nov. 1, 2021; Laws 2023, c. 7, § 1, eff. Nov. 1, 2023. NOTE: Laws 1996, c. 97, § 17 repealed
+- title-41: earlier date 2025-12-30; title-edition effective date 2023-11-01. Oklahoma Legislature, os41.pdf p. 15: rental agreement covering premises used by the occupant primarily for agricultural purposes. Added by Laws 1978, c. 257, § 4, eff. Oct. 1, 1978. Amended by Laws 2023, c. 159, § 3, eff. Nov. 1, 2023. §41-105. Mitigation of damages - Right
+- title-45: earlier date 2025-12-30; title-edition effective date 2019-11-01. Oklahoma Legislature, os45.pdf p. 158: is hereby authorized to cooperate with federal, tribal and any other agencies in this state in performing its responsibilities under this section. Added by Laws 2019, c. 349, § 2, eff. Nov. 1, 2019.
+- title-46: earlier date 2025-12-30; title-edition effective date 2021-11-01. Oklahoma Legislature, os46.pdf p. 9: eff. Oct. 1, 1978; Laws 1987, c. 4, § 1, eff. Nov. 1, 1987; Laws 2015, c. 175, § 1, eff. Nov. 1, 2015; Laws 2016, c. 210, § 19, emerg. eff. April 26, 2016; Laws 2021, c. 250, § 1, eff. Nov. 1, 2021. NOTE: Laws 2015, c. 177, § 1 repealed
+- title-50: earlier date 2025-12-30; title-edition effective date 2025-11-01. Oklahoma Legislature, os50.pdf p. 6: fficking acts shall constitute a public nuisance. Added by Laws 1998, c. 326, § 1, eff. Nov. 1, 1998. Amended by Laws 2008, c. 381, § 2, eff. July 1, 2008; Laws 2025, c. 454, § 1, eff. Nov. 1, 2025. §50-41. Location of slaughterhouse. It
+- title-53: earlier date 2025-12-30; title-edition effective date 2023-07-01. Oklahoma Legislature, os53.pdf p. 45: rt title — Oklahoma Civil Rights Trail Grant Program. This act shall be known and may be cited as the “Oklahoma Civil Rights Trail Grant Program”. Added by Laws 2023, c. 358, § 1, eff. July 1, 2023. §53-502. Creation of Oklahoma Civil Ri
+- title-54: earlier date 2025-12-30; title-edition effective date 2021-11-01. Oklahoma Legislature, os54.pdf p. 89: thorized to do business in this state. A domestic limited partnership may be its own agent. Added by Laws 2010, c. 384, § 14, eff. Jan. 1, 2011. Amended by Laws 2021, c. 51, § 30, eff. Nov. 1, 2021. §54-500-115. Repealed by Laws 2010, c.
+- title-65: earlier date 2025-12-31; title-edition effective date 2024-07-01. Oklahoma Legislature, os65.pdf p. 45: tance in such manner as herein provided. Added by Laws 1961, p. 493, § 5, emerg. eff. April 13, 1961. Amended by Laws 1993, c. 335, § 1, eff. July 1, 1993; Laws 2024, c. 333, § 1, eff. July 1, 2024. §65-156. Librarian - Qualifications -
+- title-74-appendix-1: earlier date 2025-12-31; title-edition effective date 2023-11-01. Oklahoma Legislature, os74E.pdf p. 106: 10, 2014; effective upon Legislature's sine die adjournment May 23, 2014; operative January 1, 2015. Amended by Laws 2022, c. 107, § 25, eff. Nov. 1, 2022; Laws 2023, c. 29, § 35, eff. Nov. 1, 2023.
+- title-76: earlier date 2025-12-31; title-edition effective date 2024-09-15. Oklahoma Legislature, os76.pdf p. 9: rishable or nonperishable food item. Added by Laws 1981, c. 9, § 1, emerg. eff. April 6, 1981. Amended by Laws 2013, c. 339, § 3, emerg. eff. May 29, 2013; Laws 2024, c. 222, § 7, eff. Sept. 15, 2024. §76-5.7. Accident or disaster involvin
+- title-78: earlier date 2025-12-31; title-edition effective date 2021-05-28. Oklahoma Legislature, os78.pdf p. 12: mended by Laws 1997, c. 139, § 1, eff. Nov. 1, 1997; Laws 1998, c. 162, § 2, eff. July 1, 1998; Laws 2004, c. 169, § 3, emerg. eff. April 27, 2004; Laws 2021, c. 559, § 26, emerg. eff. May 28, 2021. §78-54. Remedies. A. Any person damage
+- title-80: earlier date 2025-12-31; title-edition effective date 2025-11-01. Oklahoma Legislature, os80.pdf p. 6: Oklahoma Statutes - Title 80. United States Page 6 Added by Laws 2025, c. 44, § 1, eff. Nov. 1, 2025. §80-7. Congress authorized to administ
 
 ## What AI did and did not do
 
@@ -410,3 +435,28 @@ Model use at data-build time:
 - none
 - none
 - none
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected the printed effective date and authored metadata; law text was copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.
+- Model authored collection and validation code and explanatory metadata; law text copied unchanged from the published input.

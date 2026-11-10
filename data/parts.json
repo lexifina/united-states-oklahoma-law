@@ -515,6 +515,156 @@
     "title-85a"
    ],
    "sha256": "cf9278b78a1774fba4de4c56e59f6ea4fb0c7c69285c2e10585e33ee977576f1"
+  },
+  "zz-date-title-07.json": {
+   "acts": [
+    "title-07"
+   ],
+   "sha256": "8dd1ee9b8eca50ac9c2a54492a20dfaf413e903f9f840d5e59d07a85ca8b94d3"
+  },
+  "zz-date-title-08.json": {
+   "acts": [
+    "title-08"
+   ],
+   "sha256": "4d54bb8e0ee31ebb4be389c6fd0c565c9caaded6da9681599223b1e28670fb1a"
+  },
+  "zz-date-title-27.json": {
+   "acts": [
+    "title-27"
+   ],
+   "sha256": "f7ecca2bd8d5b57c3d5fe7e2e629eeefd29ad7cfe74d6c9ac43b17836652b901"
+  },
+  "zz-date-title-31.json": {
+   "acts": [
+    "title-31"
+   ],
+   "sha256": "af1027dd3985b4e1727672db7d186b42f8b48422405d72365cedf8c83887b3f1"
+  },
+  "zz-date-title-83.json": {
+   "acts": [
+    "title-83"
+   ],
+   "sha256": "5c14f94825d24c2d4e3f6844704e5a02d633d78961419d528b472cc577cdeb7f"
+  },
+  "zz-date-title-85.json": {
+   "acts": [
+    "title-85"
+   ],
+   "sha256": "3cd8a0592709a707d07cedba90e3bf00ef1a5af355213a6f9abe1eb947afda6d"
+  },
+  "zz-q1588-date-title-14.json": {
+   "acts": [
+    "title-14"
+   ],
+   "sha256": "5faccc661ffff8f256cb9dfcda309b3cbf36533f097ca1822f2ccc7eab1101b3"
+  },
+  "zz-q1588-date-title-14a.json": {
+   "acts": [
+    "title-14a"
+   ],
+   "sha256": "0ca4bebf31fc325cc46919e1918b6699743867a309027342b1e86d514f61cc55"
+  },
+  "zz-q1588-date-title-16.json": {
+   "acts": [
+    "title-16"
+   ],
+   "sha256": "12ea478bf93c4855c2619411dffba578e1e3346b209e17b58d1851a2f9f107cf"
+  },
+  "zz-q1588-date-title-23.json": {
+   "acts": [
+    "title-23"
+   ],
+   "sha256": "76ee6954255ad8e93feb00e20511b6cbf6bb501c0dc200d61be51508a975d2b0"
+  },
+  "zz-q1588-date-title-25.json": {
+   "acts": [
+    "title-25"
+   ],
+   "sha256": "0ffb596f643a9f8cedac71228a3124144811e2dd608b8e24e9968870a50c30e2"
+  },
+  "zz-q1588-date-title-28.json": {
+   "acts": [
+    "title-28"
+   ],
+   "sha256": "3cc232b58c11b19cc981b0496140b19cbb16d7db372981d7e6fcd25942547194"
+  },
+  "zz-q1588-date-title-30.json": {
+   "acts": [
+    "title-30"
+   ],
+   "sha256": "5b9499d8be3398366f04fa5ddd7fe3905825c6dc5d0ece635be076ab00074638"
+  },
+  "zz-q1588-date-title-38.json": {
+   "acts": [
+    "title-38"
+   ],
+   "sha256": "4e2bcb41f20d96db7e2f81be8dbd8772dd91cd89f9c3798f42a70c253149284d"
+  },
+  "zz-q1588-date-title-41.json": {
+   "acts": [
+    "title-41"
+   ],
+   "sha256": "1476efd0934ffccd8cc4ca8e4fb902ede78c9b046ccdf7c33651fec8cfe0a23f"
+  },
+  "zz-q1588-date-title-45.json": {
+   "acts": [
+    "title-45"
+   ],
+   "sha256": "f8ed6d74df5f4feb650fc65f839f90b11b2262a86597cacc3a88be19250672e2"
+  },
+  "zz-q1588-date-title-46.json": {
+   "acts": [
+    "title-46"
+   ],
+   "sha256": "e902831824d6f8bed57184ab969f610508c490f6dbb4e1f28eea11a01e5d128f"
+  },
+  "zz-q1588-date-title-50.json": {
+   "acts": [
+    "title-50"
+   ],
+   "sha256": "e4e616cbda6f2b0c84dd5b35e7dadba33dd0ee5716c28b887613c73a5283860d"
+  },
+  "zz-q1588-date-title-53.json": {
+   "acts": [
+    "title-53"
+   ],
+   "sha256": "b43a22562d8613f1623b5743104288e2afc0fae538ae70213fc97c0f7c9e1fa1"
+  },
+  "zz-q1588-date-title-54.json": {
+   "acts": [
+    "title-54"
+   ],
+   "sha256": "d273632b84a80119ad970161ba917a45691dfb3f6523b121b681d99d626a1e42"
+  },
+  "zz-q1588-date-title-65.json": {
+   "acts": [
+    "title-65"
+   ],
+   "sha256": "843f4909df5d3c8e9894059b96d07b6c5c05c4c371de79a848daba1699eeb752"
+  },
+  "zz-q1588-date-title-74-appendix-1.json": {
+   "acts": [
+    "title-74-appendix-1"
+   ],
+   "sha256": "2f4cd9bca3ff1aab2456265dfb52eb4f32bfe2f56397095fcf91b2ec80d4385c"
+  },
+  "zz-q1588-date-title-76.json": {
+   "acts": [
+    "title-76"
+   ],
+   "sha256": "dac9f3456e880e82b646ebdc6e18d4eb799d64e389797894cda3e89d8ba1c350"
+  },
+  "zz-q1588-date-title-78.json": {
+   "acts": [
+    "title-78"
+   ],
+   "sha256": "9b2b328400e04566eff66aa64f2620daafe7f47c380c6a030d66edb453e8f06c"
+  },
+  "zz-q1588-date-title-80.json": {
+   "acts": [
+    "title-80"
+   ],
+   "sha256": "f6687be1b5d0f40343c631999a947da4ed5b0fd3fbc6f6e466525101d3dcd257"
   }
  },
  "schema": 1
