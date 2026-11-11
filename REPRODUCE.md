@@ -1,6 +1,6 @@
 # How this repository was made (Oklahoma)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -183,12 +183,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-79` | Oklahoma Statutes, Title 79: Trusts and Pools | 1 | 2025-12-31 to 2025-12-31 |
 | `title-80` | Oklahoma Statutes, Title 80: United States | 1 | 2025-12-31 to 2025-12-31 |
 | `title-82` | Oklahoma Statutes, Title 82: Waters and Water Rights | 1 | 2025-12-31 to 2025-12-31 |
-| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2025-12-31 to 2025-12-31 |
+| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2015-11-01 to 2015-11-01 |
 | `title-84` | Oklahoma Statutes, Title 84: Wills and Succession | 1 | 2025-12-31 to 2025-12-31 |
 | `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 | `title-85a` | Oklahoma Statutes, Title 85A: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 
-The build made 87 commits:
+The build made 89 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -197,7 +197,7 @@ The build made 87 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 87 tags.
@@ -212,7 +212,7 @@ When a law gives no date of its own, the default rule applies: Oklahoma Constitu
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da3e0487bef9605a97582ed73c2a868a1b5c34d3b370edff60cb3b957bf349c7` (64935853 bytes).
+- Corpus: sha256 `e32e57eab158945084ee52d7a9eaac4f5a08c164bcc93c8190b0bf6e42b94875` (64939572 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -313,6 +313,7 @@ No second build of this corpus has been compared yet.
 - Okla. Stat. Title 84: one version, dated 2025-12-31, the file date of the Legislature's PDF (os84.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85A: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85A.pdf), which states no 'current through' date.
+- Title 83 section 119 has one operative section, added by Laws 2015, c. 253, section 1, effective November 1, 2015 (official PDF p. 5). The former baseline used the source PDF file date. Law text is copied unchanged from the earlier published part.
 
 ## What AI did and did not do
 
@@ -410,3 +411,4 @@ Model use at data-build time:
 - none
 - none
 - none
+- Model selected the printed effective date and authored metadata; law text was copied byte for byte from the earlier published part.
