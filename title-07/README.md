@@ -1,6 +1,6 @@
 # Oklahoma Statutes, Title 7: Blind Persons
 
-Okla. Stat. tit. 7 · 1 versions, from 2025-12-30 (latest in force: 2025-12-30) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf>
+Okla. Stat. tit. 7 · 1 versions, from 2019-11-01 (latest in force: 2019-11-01) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

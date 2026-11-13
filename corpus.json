@@ -1,0 +1,21 @@
+{
+ "corpus": "us/oklahoma/acts",
+ "path": "united-states/oklahoma/acts",
+ "scope": "selected-acts",
+ "acts": 87,
+ "future_branch": "future",
+ "publisher": "Oklahoma State Senate (Legislative Service Bureau)",
+ "name": "Oklahoma",
+ "language": "en",
+ "coverage": "87 acts of Oklahoma, the current text of each as of 2026-11-12",
+ "history": "current-only",
+ "history_from": "2015-11-01",
+ "record_to": "2026-11-12",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Oklahoma State Senate (Legislative Service Bureau).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/sec-0*([0-9]+[a-z]?)\\.md",
+  "cites": "([Ss]ection|s\\.|§) ?{n}([^0-9a-zA-Z]|$)"
+ }
+}

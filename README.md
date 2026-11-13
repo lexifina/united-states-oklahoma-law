@@ -129,3 +129,7 @@ Titles whose every section has been repealed or renumbered (9, 32, 33, 39) have 
 - Every section's letters and digits were compared with a second, independent read of the same PDF.
 - Every unit is read back from git on its day and compared with the corpus (`tools/check_repo.py`; results in `REPRODUCE.md`).
 - The source of each version is identified by its sha256, in `data/versions.json`.
+
+## Title 14 edition date
+
+Title 14 references the November 2026 official PDF, whose statutory wording is unchanged. Its effective day is 1 July 2022, established by the latest explicit section-history date. Earlier wording and legislation absent from that edition are not represented.

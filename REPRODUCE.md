@@ -1,6 +1,6 @@
 # How this repository was made (Oklahoma)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -93,6 +93,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Oklahoma Statutes, Title 84 (Oklahoma Legislature, PDF) | <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os84.pdf> | 2026-11-10 | no reuse terms stated; official text of state statutes |
 | Oklahoma Statutes, Title 85 (Oklahoma Legislature, PDF) | <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85.pdf> | 2026-11-10 | no reuse terms stated; official text of state statutes |
 | Oklahoma Statutes, Title 85A (Oklahoma Legislature, PDF) | <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85A.pdf> | 2026-11-10 | no reuse terms stated; official text of state statutes |
+| Oklahoma Legislature, Title 14 official PDF | <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os14.pdf> | 2026-11-12 | no reuse terms stated; official text of state statutes |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -108,15 +109,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-04` | Oklahoma Statutes, Title 4: Animals | 1 | 2025-12-30 to 2025-12-30 |
 | `title-05` | Oklahoma Statutes, Title 5: Attorneys and State Bar | 1 | 2025-12-30 to 2025-12-30 |
 | `title-06` | Oklahoma Statutes, Title 6: Banks and Trust Companies | 1 | 2025-12-30 to 2025-12-30 |
-| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2025-12-30 to 2025-12-30 |
-| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2025-12-30 to 2025-12-30 |
+| `title-07` | Oklahoma Statutes, Title 7: Blind Persons | 1 | 2019-11-01 to 2019-11-01 |
+| `title-08` | Oklahoma Statutes, Title 8: Cemeteries | 1 | 2021-11-01 to 2021-11-01 |
 | `title-10` | Oklahoma Statutes, Title 10: Children | 1 | 2025-12-30 to 2025-12-30 |
 | `title-10a` | Oklahoma Statutes, Title 10A: Children and Juvenile Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-11` | Oklahoma Statutes, Title 11: Cities and Towns | 1 | 2025-12-30 to 2025-12-30 |
 | `title-12` | Oklahoma Statutes, Title 12: Civil Procedure | 1 | 2025-12-30 to 2025-12-30 |
 | `title-12a` | Oklahoma Statutes, Title 12A: Uniform Commercial Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-13` | Oklahoma Statutes, Title 13: Common Carriers | 1 | 2025-12-30 to 2025-12-30 |
-| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2025-12-30 to 2025-12-30 |
+| `title-14` | Oklahoma Statutes, Title 14: Congressional and Legislative Districts | 1 | 2022-07-01 to 2022-07-01 |
 | `title-14a` | Oklahoma Statutes, Title 14A: Consumer Credit Code | 1 | 2025-12-30 to 2025-12-30 |
 | `title-15` | Oklahoma Statutes, Title 15: Contracts | 1 | 2025-12-30 to 2025-12-30 |
 | `title-16` | Oklahoma Statutes, Title 16: Conveyances | 1 | 2025-12-30 to 2025-12-30 |
@@ -130,12 +131,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-24` | Oklahoma Statutes, Title 24: Debtor and Creditor | 1 | 2025-12-30 to 2025-12-30 |
 | `title-25` | Oklahoma Statutes, Title 25: Definitions and General Provisions | 1 | 2025-12-30 to 2025-12-30 |
 | `title-26` | Oklahoma Statutes, Title 26: Elections | 1 | 2025-12-30 to 2025-12-30 |
-| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-12-30 to 2025-12-30 |
+| `title-27` | Oklahoma Statutes, Title 27: Eminent Domain | 1 | 2025-11-01 to 2025-11-01 |
 | `title-27a` | Oklahoma Statutes, Title 27A: Environment and Natural Resources | 1 | 2025-12-30 to 2025-12-30 |
 | `title-28` | Oklahoma Statutes, Title 28: Fees | 1 | 2025-12-30 to 2025-12-30 |
 | `title-29` | Oklahoma Statutes, Title 29: Game and Fish | 1 | 2025-12-30 to 2025-12-30 |
 | `title-30` | Oklahoma Statutes, Title 30: Guardian and Ward | 1 | 2025-12-30 to 2025-12-30 |
-| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2025-12-30 to 2025-12-30 |
+| `title-31` | Oklahoma Statutes, Title 31: Homestead and Exemptions | 1 | 2024-11-01 to 2024-11-01 |
 | `title-34` | Oklahoma Statutes, Title 34: Initiative and Referendum | 1 | 2025-12-30 to 2025-12-30 |
 | `title-36` | Oklahoma Statutes, Title 36: Insurance | 1 | 2025-12-30 to 2025-12-30 |
 | `title-37` | Oklahoma Statutes, Title 37: Intoxicating Liquors | 1 | 2025-12-30 to 2025-12-30 |
@@ -183,21 +184,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-79` | Oklahoma Statutes, Title 79: Trusts and Pools | 1 | 2025-12-31 to 2025-12-31 |
 | `title-80` | Oklahoma Statutes, Title 80: United States | 1 | 2025-12-31 to 2025-12-31 |
 | `title-82` | Oklahoma Statutes, Title 82: Waters and Water Rights | 1 | 2025-12-31 to 2025-12-31 |
-| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2025-12-31 to 2025-12-31 |
+| `title-83` | Oklahoma Statutes, Title 83: Weights and Measures | 1 | 2015-11-01 to 2015-11-01 |
 | `title-84` | Oklahoma Statutes, Title 84: Wills and Succession | 1 | 2025-12-31 to 2025-12-31 |
-| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
+| `title-85` | Oklahoma Statutes, Title 85: Workers' Compensation | 1 | 2024-07-01 to 2024-07-01 |
 | `title-85a` | Oklahoma Statutes, Title 85A: Workers' Compensation | 1 | 2025-12-31 to 2025-12-31 |
 
-The build made 87 commits:
+The build made 101 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 87 | first version of an act |
-| 0 | one law on its in-force day |
+| 87 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 14 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 87 tags.
@@ -212,8 +215,8 @@ When a law gives no date of its own, the default rule applies: Oklahoma Constitu
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da3e0487bef9605a97582ed73c2a868a1b5c34d3b370edff60cb3b957bf349c7` (64935853 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `e6a5b08251902fcef8de93de3f140c6d6b44d9f772c1d0a2df12c2317d193fc4` (66707958 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -313,10 +316,18 @@ No second build of this corpus has been compared yet.
 - Okla. Stat. Title 84: one version, dated 2025-12-31, the file date of the Legislature's PDF (os84.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85.pdf), which states no 'current through' date.
 - Okla. Stat. Title 85A: one version, dated 2025-12-31, the file date of the Legislature's PDF (os85A.pdf), which states no 'current through' date.
+- title-07: published date 2025-12-30; source effective date 2019-11-01. Oklahoma Legislature, os7.pdf p. 3: Laws 2019, c. 51, § 1, eff. Nov. 1, 2019. Law text copied unchanged from title-07.json.
+- title-08: published date 2025-12-30; source effective date 2021-11-01. Oklahoma Legislature, os8.pdf p. 17: Added by Laws 2021, c. 198, § 1, eff. Nov. 1, 2021. Law text copied unchanged from title-08.json.
+- title-27: published date 2025-12-30; source effective date 2025-11-01. Oklahoma Legislature, os27.pdf p. 4: Laws 2025, c. 489, § 1, eff. Nov. 1, 2025. Law text copied unchanged from title-27.json.
+- title-31: published date 2025-12-30; source effective date 2024-11-01. Oklahoma Legislature, os31.pdf p. 4: Laws 2024, c. 70, § 1, eff. Nov. 1, 2024. Law text copied unchanged from title-31.json.
+- Title 83 section 119 has one operative section, added by Laws 2015, c. 253, section 1, effective November 1, 2015 (official PDF p. 5). The former baseline used the source PDF file date. Law text is copied unchanged from the earlier published part.
+- title-85: published date 2025-12-31; source effective date 2024-07-01. Oklahoma Legislature, os85.pdf p. 35: §85-380. Renumbered as § 85.70 of Title 74 by Laws 2024, c. 256, § 3, eff. July 1, 2024. Law text copied unchanged from title-85.json.
+- Title 14 edition effective day is 2022-07-01, not the prior server file date 2025-12-30. Oklahoma Legislature os14.pdf p. 159: fice. Added by Laws 2011, c. 289, § 1, eff. Nov. 1, 2011. Amended by Laws 2021, c. 481, § 1; Laws 2021, 1st Ex. Sess., c. 3, § 1, emerg. eff. Nov. 22, 2021; Laws 2022, c. 45, § 1, eff. July 1, 2022. §14-80.10. Repealed by Laws 1991, c. 1
+- Both independent source readers matched all 18 unchanged section bodies; source images, referenced and omitted are all zero.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -410,3 +421,10 @@ Model use at data-build time:
 - none
 - none
 - none
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model selected the printed effective date and authored metadata; law text was copied byte for byte from the earlier published part.
+- Model selected official printed effective-date metadata; law text copied byte for byte from the earlier published part.
+- Model authored deterministic collection/validation and explanatory metadata; statutory units are copied unchanged from published input after independent official-source comparisons. No OCR or model-written law text.
