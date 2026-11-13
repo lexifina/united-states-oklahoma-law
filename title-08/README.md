@@ -1,6 +1,6 @@
 # Oklahoma Statutes, Title 8: Cemeteries
 
-Okla. Stat. tit. 8 · 1 versions, from 2025-12-30 (latest in force: 2025-12-30) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf>
+Okla. Stat. tit. 8 · 1 versions, from 2021-11-01 (latest in force: 2021-11-01) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
