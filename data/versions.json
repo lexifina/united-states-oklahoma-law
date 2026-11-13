@@ -9,6 +9,9 @@
    "versions": [
     {
      "from": "2019-12-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 404,
      "source_url": "https://oksenate.gov/sites/default/files/2019-12/AllOKConstitutionArticles.pdf",
      "sha256": "9f44fc422e3d6d393c37c5a88c22201701200392aa12d413505d87fb476b6a71"
@@ -23,6 +26,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os1.pdf",
      "sha256": "026a1d5b16e6c8728762bd41fa4a5d5c2a3d1ca24419e5420eb567648e449e57"
@@ -37,6 +43,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1054,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os2.pdf",
      "sha256": "e8ac41cf768ea4541f21dbfe9c82e939f3d0e20a2b004948064e9d9921e08ef1"
@@ -51,6 +60,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 172,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os3.pdf",
      "sha256": "bf2f052e4248909290c888aaffd710f1dd38a4865988803d9019a97ee39af54e"
@@ -65,6 +77,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 167,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os3A.pdf",
      "sha256": "09beb84b7159d155802547bece2e81b7d9d82c162778e717bac97fe97fca92c9"
@@ -79,6 +94,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 135,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os4.pdf",
      "sha256": "686f895692fd4aa499ff374961db9fa62013c20b42f57916cf33e457f32670d8"
@@ -93,6 +111,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os5.pdf",
      "sha256": "24314d618bb0d1840be961690a9a4ea97a0784718d1756cc65db7e60c163e31b"
@@ -107,6 +128,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 331,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os6.pdf",
      "sha256": "8dd09fab51e36e419a3dd56130145dd2f640ce6c636871ea2157c9fa089cfc11"
@@ -120,7 +144,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2019-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os7.pdf",
      "sha256": "79af64de26e61f3b00217e346a50d7ee518684102b85f4acec112a940df4a7b8"
@@ -134,7 +161,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2021-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 69,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os8.pdf",
      "sha256": "15429bc956b3ada9225f1f3cf0c97392612240383f79f0b2d922386327547efe"
@@ -149,6 +179,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 381,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os10.pdf",
      "sha256": "0a71276e06557b339ba9353d3ba8b87b97382776d61be2a0b0bee81ca51b72aa"
@@ -163,6 +196,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 342,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os10A.pdf",
      "sha256": "530e06aeb9808ac5d57cb0aed48d2dacfb97520024df4f7c59253653d652cd30"
@@ -177,6 +213,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1076,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os11.pdf",
      "sha256": "1f134761cd1480bec234af9d727d3ffa7704e39d18b92e89754ecf8d73502544"
@@ -191,6 +230,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 919,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os12.pdf",
      "sha256": "8febb384df49880358d8c410aa3f768153a9bc27d58463878a82397dbb69c33d"
@@ -205,6 +247,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 672,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os12A.pdf",
      "sha256": "26a97effdf4746d9f549ccd3b8081dd0bcb18b239812d56f9c8e863c7bf65999"
@@ -219,6 +264,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 82,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os13.pdf",
      "sha256": "52b8cb54197fb361bced28d0e1b13ed699991ec368a6c077e9efeb6c61132ab7"
@@ -233,6 +281,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os14.pdf",
      "sha256": "fd4545ad9ea3039ad6f3c16ec66f80c950ab965633458c2a5f9408e65eded310"
@@ -247,6 +298,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 243,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os14A.pdf",
      "sha256": "823274044bf032e1169211648ac55438449331b5431830f0554c1a18a642fd22"
@@ -261,6 +315,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 498,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os15.pdf",
      "sha256": "c1c959817348a4c6c0b6d130145c234e6b1cd4042e7ad0f9e4b10da552034d53"
@@ -275,6 +332,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 104,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os16.pdf",
      "sha256": "a64838ea98057e924e6704d39fd2d29db0e8b75323fd9dd874369dbe3d30d60b"
@@ -289,6 +349,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 390,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os17.pdf",
      "sha256": "3a53d696e768d236c77ea05aa83f8f95ed8357f4c2fb73a46ebc644369c15957"
@@ -303,6 +366,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 718,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os18.pdf",
      "sha256": "295515ff3d064e987e39cf36b0782a3bf245381addf685a84cb46ab01861829b"
@@ -317,6 +383,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 958,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os19.pdf",
      "sha256": "e255b699939f2cd0b0627d7b4ac6649f7f877af0ffdccb7c472ce489aae8cc8b"
@@ -331,6 +400,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 349,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os20.pdf",
      "sha256": "b3caee15d4a482334fd5957ba7ec42b0198cb224efb3737acdd2cbd0e08e2b58"
@@ -345,6 +417,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1370,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os21.pdf",
      "sha256": "72164dc8f46740e90c9f23aa405ae403471ea71cb1c1f9662fd6e51ac733d863"
@@ -359,6 +434,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 986,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os22.pdf",
      "sha256": "ed7663a5f6f2a7ca7137d0a672e230773271f6e8c12e9a4fe96fc405ec9fe141"
@@ -373,6 +451,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 53,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os23.pdf",
      "sha256": "df35375e3d349959ce383190489d4fbffd21030ea32891ac1e6325cc4a24e691"
@@ -387,6 +468,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 88,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os24.pdf",
      "sha256": "fba8ce37f8c3abbd3222bbde446795f09e1598ffb2379e7a391a353c7aac5eaf"
@@ -401,6 +485,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 228,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os25.pdf",
      "sha256": "947138b719a29e19d5adde6da9b5ae184799cf1503419826ff7101d4d526ea30"
@@ -415,6 +502,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 414,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os26.pdf",
      "sha256": "0abaf28140d9f0282d5426872566c9c846256a21472529a5d9551af8de476591"
@@ -428,7 +518,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os27.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2025-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os27.pdf",
      "sha256": "9c6eb406948997821fe2ca90efc4197e892624a6c14defc39226c061a3b9c367"
@@ -443,6 +536,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 415,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os27a.pdf",
      "sha256": "e3ab75d8ef2c5c85c3c418127423ddb7011bcfd120b8c6d71f7ce2b571950027"
@@ -457,6 +553,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 71,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os28.pdf",
      "sha256": "6adfd26911020f643fc879a14d707733ce5fd90dc69ef6cc10e8813bbedf7562"
@@ -471,6 +570,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 251,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os29.pdf",
      "sha256": "4cd83ca4af1cdc875d9f24fff6be34b7e10ad3076305e53749999f5ff1470bab"
@@ -485,6 +587,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 183,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os30.pdf",
      "sha256": "149a61eba2ce1c5f2466a98e3cd407d17a357408037e840a063145520c115f68"
@@ -498,7 +603,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os31.pdf",
    "versions": [
     {
-     "from": "2025-12-30",
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os31.pdf",
      "sha256": "41d8826d11145d18432e8a7e738fd3f54a1d7951280ef6bb2ad4a1114533b07e"
@@ -513,6 +621,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os34.pdf",
      "sha256": "0c54a3479ccb405e2a9de7c8ceac12d637c1165bd87c10c8d7a59c194a2ea3e4"
@@ -527,6 +638,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1668,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os36.pdf",
      "sha256": "58cc0f4ded67eb7f2c1a34ea14ecc944793a8aeb6c68b55822164c8edc0fd837"
@@ -541,6 +655,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os37.pdf",
      "sha256": "f779c14e788c6001548b46f35df48a3c38981a967fc37c51faa3aef17a176145"
@@ -555,6 +672,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 194,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os37a.pdf",
      "sha256": "fe52920e8f6b491adc445f70e7f78eeaeb827dbe62ec7cee1bb290f77aa1dd9c"
@@ -569,6 +689,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os38.pdf",
      "sha256": "7c5989348407ddc66ac07ae9b5aa53e0f63d3c857c2d0b111886760dc91de2c2"
@@ -583,6 +706,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 502,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os40.pdf",
      "sha256": "99c3cd84c755f1360fbd28b330246925f238271a3c498945e26441f7f5851d86"
@@ -597,6 +723,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 79,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os41.pdf",
      "sha256": "395e470523ebb26546eb1b0381d9b1b39b821c4ff5827be72eecd0c1a68d17e2"
@@ -611,6 +740,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 127,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os42.pdf",
      "sha256": "ccbdf7904497fea4782eef9227c49f93fd3b45c336d9d676581e8c41b037a5bd"
@@ -625,6 +757,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 285,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os43.pdf",
      "sha256": "0b743c0c6653f6a5b7c30df0cbb35ca829a13c397d3f6a97df21c9249a5273ea"
@@ -639,6 +774,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 249,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os43A.pdf",
      "sha256": "66f76d42e5ff0a27f7600a1fe0451ff518656b16951f24801963170f2f07dace"
@@ -653,6 +791,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 282,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os44.pdf",
      "sha256": "c75413676e1c6647f1fe54ac9dcaddfe01e997b52d4bca5ec1ff123f88ebf697"
@@ -667,6 +808,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 227,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os45.pdf",
      "sha256": "16a35e217f761e4e750f13e5db3cd3949d50beba27bc4d93b60098bb627fbe0d"
@@ -681,6 +825,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os46.pdf",
      "sha256": "eb395ad7e2bbf10799d6e65ecb8035673e8e6e03b113b6ea3e3678da898bab31"
@@ -695,6 +842,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1244,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os47.pdf",
      "sha256": "e443bda26bf3c8109978fb408bf5c9df8470ff7da4172e3d95c59b57e8385741"
@@ -709,6 +859,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os49.pdf",
      "sha256": "ed29dcfc5d7b21941c8951a871104341a3dfa787729371d9d06e0284900f520c"
@@ -723,6 +876,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os50.pdf",
      "sha256": "7ce994498544ef5698250320a9ede8153aaca747611712ec1df122d0456ff45e"
@@ -737,6 +893,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 152,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os51.pdf",
      "sha256": "23ceac2ad44044e890f3bb6864a812e4277c3efcd2172b35312839ef619c77db"
@@ -751,6 +910,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 376,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os52.pdf",
      "sha256": "600dfd956b2c31c863196674ed0191c48f200eb5131f5e8ec2331d6fab2bf78e"
@@ -765,6 +927,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 87,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os53.pdf",
      "sha256": "7d02ff77e5e634b7a2d34b83db3da59f6d701f3ab9d996ccbdebae17442d029b"
@@ -779,6 +944,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 173,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os54.pdf",
      "sha256": "b8ef7149c01ce749e7a38af3ed273bc42ea85d22ca7c48f68739651ca9842488"
@@ -793,6 +961,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 401,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os56.pdf",
      "sha256": "794b246ade4c14784cf1e8efd9bd86bdcc847d3d2ae3346725904dfe4a4e44b6"
@@ -807,6 +978,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 267,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os57.pdf",
      "sha256": "fbe3ec7d3c598aeb342673b47685e1269474dda140687ed0f72b5e69850ba367"
@@ -821,6 +995,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 496,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os58.pdf",
      "sha256": "69c0905e6c73a6d6d56d186f88ba4f9e67fccec18844a7be8dc280b6c3b3cad1"
@@ -835,6 +1012,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1666,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os59.pdf",
      "sha256": "a45d3e3e2af74cee7526fdb856c07bb65e4e5fd06b68fed9ff7c959d86c13e26"
@@ -849,6 +1029,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 651,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os60.pdf",
      "sha256": "d3b2e55579a21614fbb90817003b03500ec031bf71f6fb51d3380876d204f494"
@@ -863,6 +1046,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 126,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os61.pdf",
      "sha256": "e6409b802db0a7b08f050280457af877232dfdc39d2970d616bf59f782aeacf3"
@@ -877,6 +1063,9 @@
    "versions": [
     {
      "from": "2025-12-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 876,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os62.pdf",
      "sha256": "b88004fc0fdedc8d33205ede538cc61e8741bd168b00f68f3444bc27de5d73aa"
@@ -891,6 +1080,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2092,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os63.pdf",
      "sha256": "27f6c9519574bc1ce37edbf7b08038273bb6776ac7de9febbc63a9dde06a2c90"
@@ -905,6 +1097,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os64.pdf",
      "sha256": "81945a21436fa48c086ce15aeec04f66f8aa2a9a9a19506a7a09e32ce5906cca"
@@ -919,6 +1114,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 94,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os65.pdf",
      "sha256": "94ae930811705dcfd3128b7d080c0cf421a54e2559dd6e0bc0a58b979e8e7722"
@@ -933,6 +1131,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os66.pdf",
      "sha256": "2a94fc9bda96436fccbcd0d58feb665a1a0ea9f177eecede7587a4b1c2f2276c"
@@ -947,6 +1148,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 75,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os67.pdf",
      "sha256": "a6c210b7260dd3adec74cb78dab73564862ece9ebb3e1159750cf38686f1e9d3"
@@ -961,6 +1165,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1303,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os68.pdf",
      "sha256": "000e4e3b7b834aad968b862d35e24cf4b443af0877e17993163afb2b179ff901"
@@ -975,6 +1182,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1013,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os69.pdf",
      "sha256": "886a7fb01512f9172491737f72ce9333ccf0d859f381de009c1cdf9549a31ece"
@@ -989,6 +1199,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1743,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os70.pdf",
      "sha256": "5a14564ed8b33cdb062f79e41e370a740b421f06ecd33c26cb21fbda497fa861"
@@ -1003,6 +1216,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 147,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os71.pdf",
      "sha256": "15263520f34a2a6d5088bbbd10ed90b5f70375656ef2858ef1c7556c78e2319c"
@@ -1017,6 +1233,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 123,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os72.pdf",
      "sha256": "ee6ebf68eb059df197fa98eff55ba0fee5163743fe3867fb526cbacbfbc049f3"
@@ -1031,6 +1250,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 165,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os73.pdf",
      "sha256": "ddd7d1ada04d171bf0d277ba5b1fd11c3602bc49d15332caaeaf65305074d2de"
@@ -1045,6 +1267,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 202,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os74E.pdf",
      "sha256": "43002b114757c6b199c95a09aecaae51c2c19d8a14eec9c03744a9376b8ed139"
@@ -1059,6 +1284,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1515,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os74.pdf",
      "sha256": "118c37b406e4e841ccfc46d90857007f3e41a55116e6f783d8bc1b5f58346659"
@@ -1073,6 +1301,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 96,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os75.pdf",
      "sha256": "b875a61a69d113ab774755dbc25bfacf74af20c397c5b08021a36f7e097678a0"
@@ -1087,6 +1318,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os75A.pdf",
      "sha256": "bf90596488befadd9e8092411a0ed11621a41d438f485503397971b4018b60d6"
@@ -1101,6 +1335,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 93,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os76.pdf",
      "sha256": "24672668076601ab85c209378bc7d4fc83b10645d8e120b9d21324f697e3e098"
@@ -1115,6 +1352,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 44,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os78.pdf",
      "sha256": "ecddc6c8efa15422c879061ec0e10a6ec4619e0267ae718db9f5e5bb442d8d9c"
@@ -1129,6 +1369,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os79.pdf",
      "sha256": "c4d9c269ce964e0f3d236b67945d0992d0c5525f407a6203c57e330ec9b803a5"
@@ -1143,6 +1386,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os80.pdf",
      "sha256": "3c7ffe2875c222294bd390e72f3053ffb0d037956efcd823e03e9eff428f7f55"
@@ -1157,6 +1403,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 517,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os82.pdf",
      "sha256": "f347b2ae5a060c54f1d18dcd86b526b450008e52ef2d21b16360402b992f7cfb"
@@ -1170,7 +1419,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os83.pdf",
    "versions": [
     {
-     "from": "2025-12-31",
+     "from": "2015-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os83.pdf",
      "sha256": "092985cb73afc9ae86749923a11cce69d346f88784a8cac1dd369cf740952906"
@@ -1185,6 +1437,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 193,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os84.pdf",
      "sha256": "11ead2b7b391c8f8992b40412d15c6e675a09171699292711913aff4bd9fc43f"
@@ -1198,7 +1453,10 @@
    "url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85.pdf",
    "versions": [
     {
-     "from": "2025-12-31",
+     "from": "2024-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85.pdf",
      "sha256": "dd3ff41d405e051bf7f66a3258f37479f381199ee70b54ea71f5093bc305049e"
@@ -1213,6 +1471,9 @@
    "versions": [
     {
      "from": "2025-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 160,
      "source_url": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os85A.pdf",
      "sha256": "e823b352b4e0156b9c9c5e153bdd28778fd2c00547146f7f8ede69ecc33f53ca"
