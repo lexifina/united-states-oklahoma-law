@@ -1,0 +1,77 @@
+# Oklahoma Statutes, Title 28: Fees
+
+Okla. Stat. tit. 28 · 1 versions, from 2025-12-30 (latest in force: 2025-12-30) · <https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os28.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Okla. Stat. tit. 28 § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| Okla. Stat. tit. 28 § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Okla. Stat. tit. 28 § 5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| Okla. Stat. tit. 28 § 6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| Okla. Stat. tit. 28 § 7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| Okla. Stat. tit. 28 § 8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| Okla. Stat. tit. 28 § 9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| Okla. Stat. tit. 28 § 10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| Okla. Stat. tit. 28 § 11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| Okla. Stat. tit. 28 § 12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| Okla. Stat. tit. 28 § 13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| Okla. Stat. tit. 28 § 31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| Okla. Stat. tit. 28 § 31.1 | [sec-0031-0001.md](sec-0031-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 31.2 | [sec-0031-0002.md](sec-0031-0002.md) | 0 |  |
+| Okla. Stat. tit. 28 § 31.3 | [sec-0031-0003.md](sec-0031-0003.md) | 0 |  |
+| Okla. Stat. tit. 28 § 32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| Okla. Stat. tit. 28 § 32.3 | [sec-0032-0003.md](sec-0032-0003.md) | 0 |  |
+| Okla. Stat. tit. 28 § 33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| Okla. Stat. tit. 28 § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| Okla. Stat. tit. 28 § 36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| Okla. Stat. tit. 28 § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| Okla. Stat. tit. 28 § 43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| Okla. Stat. tit. 28 § 44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| Okla. Stat. tit. 28 § 45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| Okla. Stat. tit. 28 § 46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| Okla. Stat. tit. 28 § 48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| Okla. Stat. tit. 28 § 49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| Okla. Stat. tit. 28 § 49.1 | [sec-0049-0001.md](sec-0049-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 49.2 | [sec-0049-0002.md](sec-0049-0002.md) | 0 |  |
+| Okla. Stat. tit. 28 § 50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| Okla. Stat. tit. 28 § 56 | [sec-0056.md](sec-0056.md) | 0 |  |
+| Okla. Stat. tit. 28 § 60 | [sec-0060.md](sec-0060.md) | 0 |  |
+| Okla. Stat. tit. 28 § 61 | [sec-0061.md](sec-0061.md) | 0 |  |
+| Okla. Stat. tit. 28 § 81 | [sec-0081.md](sec-0081.md) | 0 |  |
+| Okla. Stat. tit. 28 § 82 | [sec-0082.md](sec-0082.md) | 0 |  |
+| Okla. Stat. tit. 28 § 84 | [sec-0084.md](sec-0084.md) | 0 |  |
+| Okla. Stat. tit. 28 § 84.1 | [sec-0084-0001.md](sec-0084-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 85 | [sec-0085.md](sec-0085.md) | 0 |  |
+| Okla. Stat. tit. 28 § 86 | [sec-0086.md](sec-0086.md) | 0 |  |
+| Okla. Stat. tit. 28 § 86.1 | [sec-0086-0001.md](sec-0086-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 87 | [sec-0087.md](sec-0087.md) | 0 |  |
+| Okla. Stat. tit. 28 § 88 | [sec-0088.md](sec-0088.md) | 0 |  |
+| Okla. Stat. tit. 28 § 91 | [sec-0091.md](sec-0091.md) | 0 |  |
+| Okla. Stat. tit. 28 § 101 | [sec-0101.md](sec-0101.md) | 0 |  |
+| Okla. Stat. tit. 28 § 102 | [sec-0102.md](sec-0102.md) | 0 |  |
+| Okla. Stat. tit. 28 § 103 | [sec-0103.md](sec-0103.md) | 0 |  |
+| Okla. Stat. tit. 28 § 105 | [sec-0105.md](sec-0105.md) | 0 |  |
+| Okla. Stat. tit. 28 § 106 | [sec-0106.md](sec-0106.md) | 0 |  |
+| Okla. Stat. tit. 28 § 111 | [sec-0111.md](sec-0111.md) | 0 |  |
+| Okla. Stat. tit. 28 § 112 | [sec-0112.md](sec-0112.md) | 0 |  |
+| Okla. Stat. tit. 28 § 114 | [sec-0114.md](sec-0114.md) | 0 |  |
+| Okla. Stat. tit. 28 § 121 | [sec-0121.md](sec-0121.md) | 0 |  |
+| Okla. Stat. tit. 28 § 151 | [sec-0151.md](sec-0151.md) | 0 |  |
+| Okla. Stat. tit. 28 § 151.1 | [sec-0151-0001.md](sec-0151-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152 | [sec-0152.md](sec-0152.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152.1 | [sec-0152-0001.md](sec-0152-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152.2 | [sec-0152-0002.md](sec-0152-0002.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152.3 | [sec-0152-0003.md](sec-0152-0003.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152.4 | [sec-0152-0004.md](sec-0152-0004.md) | 0 |  |
+| Okla. Stat. tit. 28 § 152A | [sec-0152a.md](sec-0152a.md) | 0 |  |
+| Okla. Stat. tit. 28 § 153 | [sec-0153.md](sec-0153.md) | 0 |  |
+| Okla. Stat. tit. 28 § 153.1 | [sec-0153-0001.md](sec-0153-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 153.2 | [sec-0153-0002.md](sec-0153-0002.md) | 0 |  |
+| Okla. Stat. tit. 28 § 153.3 | [sec-0153-0003.md](sec-0153-0003.md) | 0 |  |
+| Okla. Stat. tit. 28 § 154 | [sec-0154.md](sec-0154.md) | 0 |  |
+| Okla. Stat. tit. 28 § 155 | [sec-0155.md](sec-0155.md) | 0 |  |
+| Okla. Stat. tit. 28 § 155.1 | [sec-0155-0001.md](sec-0155-0001.md) | 0 |  |
+| Okla. Stat. tit. 28 § 156 | [sec-0156.md](sec-0156.md) | 0 |  |
+| Okla. Stat. tit. 28 § 157 | [sec-0157.md](sec-0157.md) | 0 |  |
+| Okla. Stat. tit. 28 § 162 | [sec-0162.md](sec-0162.md) | 0 |  |
